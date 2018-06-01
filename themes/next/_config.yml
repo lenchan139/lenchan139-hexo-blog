@@ -55,7 +55,7 @@ favicon:
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link, and install hexo-generator-feed: `npm install hexo-generator-feed --save`.
 # Set rss to specific value if you have burned your feed already.
-rss:
+rss: atom.xml
 
 footer:
   # Specify the date when the site was setup.
@@ -118,9 +118,9 @@ index_with_subtitle: false
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, question icon will be loaded.
 menu:
   home: / || home
-  #about: /about/ || user
+  about: /about/ || user
   #tags: /tags/ || tags
-  #categories: /categories/ || th
+  categories: /categories/ || th
   archives: /archives/ || archive
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
@@ -137,8 +137,8 @@ menu_settings:
 
 # Schemes
 #scheme: Muse
-#scheme: Mist
-scheme: Pisces
+scheme: Mist
+#scheme: Pisces
 #scheme: Gemini
 
 
@@ -154,11 +154,16 @@ site_state: true
 # Key is the link label showing to end users.
 # Value before `||` delimeter is the target permalink.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
-#social:
-  #GitHub: https://github.com/yourname || github
-  #E-Mail: mailto:yourname@gmail.com || envelope
+social:
+
+  Mastodon: https://pawoo.net/@lenchan139 || user
+  Telegram: https://telegram.me/lenchan139 || telegram
+  #E-Mail: mailto:lenchan139@tto.moe || envelope
+  Twitter: https://twitter.com/lenchan139 || twitter
+  GitHub: https://github.com/lenchan139 || github
+  GitLab: https://gitlab.com/lenchan139 || gitlab
+
   #Google: https://plus.google.com/yourname || google
-  #Twitter: https://twitter.com/yourname || twitter
   #FB Page: https://www.facebook.com/yourname || facebook
   #VK Group: https://vk.com/yourname || vk
   #StackOverflow: https://stackoverflow.com/yourname || stack-overflow
@@ -169,7 +174,7 @@ site_state: true
 social_icons:
   enable: true
   icons_only: false
-  transition: false
+  transition: true
   # Dependencies: exturl: true in Tags Settings section below.
   # To encrypt links above use https://www.base64encode.org
   # Example encoded link: `GitHub: aHR0cHM6Ly9naXRodWIuY29tL3RoZW1lLW5leHQ= || github`
@@ -229,7 +234,7 @@ sidebar:
   #  - hide    expand only when click on the sidebar toggle icon.
   #  - remove  Totally remove sidebar including sidebar toggle.
   #display: post
-  #display: always
+  display: always
   #display: hide
   #display: remove
 
@@ -243,7 +248,7 @@ sidebar:
   scrollpercent: false
 
   # Enable sidebar on narrow view (only for Muse | Mist).
-  onmobile: false
+  onmobile: true
 
 
 # ---------------------------------------------------------------
@@ -481,10 +486,10 @@ pangu: false
 
 # Disqus
 disqus:
-  enable: true
+  enable: false
   shortname:
   count: true
-  lazyload: true
+  lazyload: false
 
 # Hypercomments
 #hypercomments_id:
