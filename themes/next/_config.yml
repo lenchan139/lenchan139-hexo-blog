@@ -136,9 +136,15 @@ menu_settings:
 # ---------------------------------------------------------------
 
 # Schemes
+<<<<<<< HEAD
 scheme: Muse
 #scheme: Mist
 #scheme: Pisces
+=======
+#scheme: Muse
+#scheme: Mist
+scheme: Pisces
+>>>>>>> parent of b830b2a... theme update
 #scheme: Gemini
 
 
@@ -228,7 +234,11 @@ sidebar:
   #  - always  expand for all pages automatically
   #  - hide    expand only when click on the sidebar toggle icon.
   #  - remove  Totally remove sidebar including sidebar toggle.
+<<<<<<< HEAD
   display: post
+=======
+  #display: post
+>>>>>>> parent of b830b2a... theme update
   #display: always
   #display: hide
   #display: remove
@@ -481,10 +491,10 @@ pangu: false
 
 # Disqus
 disqus:
-  enable: false
+  enable: true
   shortname:
   count: true
-  lazyload: false
+  lazyload: true
 
 # Hypercomments
 #hypercomments_id:

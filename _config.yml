@@ -8,7 +8,11 @@ subtitle: 靜待希望再臨。
 description: 然後，乜都無。
 keywords:
 author: Len Chan
+<<<<<<< HEAD
 language: default
+=======
+language: zh-hk
+>>>>>>> parent of b830b2a... theme update
 timezone: Hongkong
 
 # URL
@@ -73,7 +77,11 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
+<<<<<<< HEAD
 theme: inside
+=======
+theme: hueman
+>>>>>>> parent of b830b2a... theme update
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
