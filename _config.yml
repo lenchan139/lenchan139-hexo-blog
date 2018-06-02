@@ -8,7 +8,7 @@ subtitle: 靜待希望再臨。
 description: 然後，乜都無。
 keywords:
 author: Len Chan
-language: en
+language: default
 timezone: Hongkong
 
 # URL
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: inside
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
