@@ -15,7 +15,7 @@ tags:
   - icon
 categories:
   - IT及Linux綜合
-  - Manjaro／x86 Linux
+  - Mac／iOS
 date: 2018-03-07 13:41:48
 ---
 
