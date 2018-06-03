@@ -1,5 +1,6 @@
 ---
 title: tags
 date: 2018-06-01 13:28:03
-type: "tags"
+layout: _pages/tagcloud
+
 ---

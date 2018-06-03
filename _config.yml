@@ -8,11 +8,7 @@ subtitle: 靜待希望再臨。
 description: 然後，乜都無。
 keywords:
 author: Len Chan
-<<<<<<< HEAD
-language: default
-=======
 language: zh-hk
->>>>>>> parent of b830b2a... theme update
 timezone: Hongkong
 
 # URL
@@ -61,7 +57,9 @@ index_generator:
 default_category: uncategorized
 category_map:
 tag_map:
-
+auto_category:
+ enable: true
+ depth:
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
@@ -77,14 +75,39 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-<<<<<<< HEAD
-theme: inside
-=======
-theme: hueman
->>>>>>> parent of b830b2a... theme update
+theme: spectreX
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: heroku
   repo: https://git.heroku.com/lenchan139-hexo-blog.git
+
+#live2d
+live2d:
+  enable: true
+  scriptFrom: local
+  pluginRootPath: live2dw/
+  pluginJsPath: lib/
+  pluginModelPath: assets/
+  model:
+    use: live2d-widget-model-wanko
+  display:
+    position: right
+    width: 150
+    height: 300
+  mobile:
+    show: true
+
+#autotagger
+auto_tagger:
+  tag_keywords:
+    - ACGN
+    - IT
+    - Linux
+    - Psycho-Pass
+
+#Sitemap settings
+auto_dir_categorize:
+  enable: true  # options:true, false; default is true
+  force: false # options:true, false; default is false
