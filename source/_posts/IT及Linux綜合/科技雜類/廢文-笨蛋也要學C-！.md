@@ -2,6 +2,16 @@
 title: '[廢文]笨蛋也要學C++！'
 tags:
   - 電腦雜項
+  - C++
+  - Blog
+  - Dev
+  - Qt Creator
+  - Qt
+  - Google
+  - Java
+  - Program
+  - 語言
+  - Language
 categories:
   - IT及Linux綜合
   - 科技雜類
