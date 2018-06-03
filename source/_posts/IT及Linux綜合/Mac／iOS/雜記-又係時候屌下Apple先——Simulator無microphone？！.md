@@ -8,6 +8,7 @@ tags:
   - Apple
   - PSO2
   - FGO
+  - 生活雜記
   - group
   - project
   - 和藹可親

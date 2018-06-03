@@ -3,6 +3,13 @@ title: '[雜記]Swift係好文明，所以買咗Macbook Pro 13″ (2015)'
 tags:
   - MacOS
   - 生活雜記
+  - MacBook Pro
+  - 2015
+  - Swift
+  - Obj-C
+  - Objective-C
+  - 學期
+  - brew
 categories:
   - IT及Linux綜合
   - Mac／iOS
