@@ -45,7 +45,7 @@ date: 2017-08-10 22:16:12
 
 係咪好抽象呢？上片。
 
-<iframe src="https://www.youtube.com/embed/RYbagiXO6n8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
 
 最後搞咗半晚，裝咗嗰[SteerMouse](http://plentycom.jp/payment/en/purchase/index?APP_NAME=SteerMouse5)，個scrolling先正常返。
 

@@ -35,13 +35,13 @@ Pinta使用GTK+開發出來的，所以不用像Paint.Net安裝 .NET（Mono）�
 
 安裝方面，如果你是Ubuntu或者是Deepin可以打開終端，鍵入
 
-<pre>$ sudo apt-get install pinta</pre>
+$ sudo apt-get install pinta
 
 安裝即可。
 
 如果你的源裏面沒有，請自行手動加入源然後再apt-get 哦親
 
-<pre>deb http://ppa.launchpad.net/pinta-maintainers/pinta-stable/ubuntu precise main
-deb-src http://ppa.launchpad.net/pinta-maintainers/pinta-stable/ubuntu precise main</pre>
+deb http://ppa.launchpad.net/pinta-maintainers/pinta-stable/ubuntu precise main
+deb-src http://ppa.launchpad.net/pinta-maintainers/pinta-stable/ubuntu precise main
 
 至於其他的安裝方法，請參閱[官方網站的下載網頁](http://pinta-project.com/download.ashx)。

@@ -44,4 +44,4 @@ Include = /etc/pacman.d/mirrorlist`
 
 Finish：
 
-<div>[![](https://3.bp.blogspot.com/-sIpuKjusqI8/Uk_AjIbwidI/AAAAAAAADIY/RBuZISv-ekI/s640/%E5%BF%AB%E7%85%A72.png)](https://3.bp.blogspot.com/-sIpuKjusqI8/Uk_AjIbwidI/AAAAAAAADIY/RBuZISv-ekI/s1600/%E5%BF%AB%E7%85%A72.png)</div>
+[![](https://3.bp.blogspot.com/-sIpuKjusqI8/Uk_AjIbwidI/AAAAAAAADIY/RBuZISv-ekI/s640/%E5%BF%AB%E7%85%A72.png)](https://3.bp.blogspot.com/-sIpuKjusqI8/Uk_AjIbwidI/AAAAAAAADIY/RBuZISv-ekI/s1600/%E5%BF%AB%E7%85%A72.png)

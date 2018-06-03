@@ -14,9 +14,9 @@ categories:
 date: 2013-01-16 20:06:00
 ---
 
-<div>[![](https://1.bp.blogspot.com/-s9_qCyPztKY/UPu_lIRyGwI/AAAAAAAAeO8/FAg8y6AVf7w/s640/cover.jpg)](https://1.bp.blogspot.com/-s9_qCyPztKY/UPu_lIRyGwI/AAAAAAAAeO8/FAg8y6AVf7w/s1600/cover.jpg)</div>
+[![](https://1.bp.blogspot.com/-s9_qCyPztKY/UPu_lIRyGwI/AAAAAAAAeO8/FAg8y6AVf7w/s640/cover.jpg)](https://1.bp.blogspot.com/-s9_qCyPztKY/UPu_lIRyGwI/AAAAAAAAeO8/FAg8y6AVf7w/s1600/cover.jpg)
 
-<a name="more"></a>
+
 
 我看完整份施政報告之後，我已經連碼篇長點的文章吐槽都放棄了，所以我的吐槽就簡單點。
 
@@ -56,11 +56,10 @@ Oh Fuck.
 CEPA聯合工作小組（25）
 知識產權貿易中心小組（45）
 
-<div>單肢傷殘人士申領傷殘津貼跨部門工作小組（109）</p>
-<div>**
+單肢傷殘人士申領傷殘津貼跨部門工作小組（109）
+**
 12年已成立的**
 長遠房屋策略督導委員會
 扶貧委員會
 標準工時專責委員會
-私營醫療機構規管檢討督導委員會</div>
-</div>
+私營醫療機構規管檢討督導委員會

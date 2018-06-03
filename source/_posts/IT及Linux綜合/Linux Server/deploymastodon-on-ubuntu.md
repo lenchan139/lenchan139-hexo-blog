@@ -411,7 +411,7 @@ For English Speaker who use Archlinux to deploy:[https://gist.github.com/xatier/
 
         #下載最新嘅source code
 
-> <a name="2303"></a>git clone [https://github.com/tootsuite/mastodon.git](https://github.com/tootsuite/mastodon.git) cd mastodon
+> git clone [https://github.com/tootsuite/mastodon.git](https://github.com/tootsuite/mastodon.git) cd mastodon
 
         #del咗隻app
 
@@ -457,4 +457,4 @@ For English Speaker who use Archlinux to deploy:[https://gist.github.com/xatier/
 
         [xatier/Mastodon on GCE.md](https://gist.github.com/xatier/60894616c88695d2e5b7c9ddcb64305c)
 
-        <your.domain><key1><key2><key3><smtp.domain.here><login_id><password><from_address><access_key><access_key_secret><user@domain.mail><username><username><user@domain.mail></user@domain.mail></username></username></user@domain.mail></access_key_secret></access_key></from_address></password></login_id></smtp.domain.here></key3></key2></key1></your.domain>
+        <your.domain><smtp.domain.here><user@domain.mail><user@domain.mail></user@domain.mail></user@domain.mail></smtp.domain.here></your.domain>

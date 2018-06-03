@@ -17,14 +17,14 @@ date: 2016-11-21 19:13:02
 
 如題，調查咗下，個問題係個dkms未update，鍵入：
 
-> <pre>>
-> `dkms autoinstall`</pre>
+>>
+> `dkms autoinstall`
 
 	`之後開啓個module：`
 
-> <pre>>
+>>
 > `modprobe vboxdrv4`>
-> </pre>
+>
 
 	`Reference：`
 

@@ -50,19 +50,19 @@ date: 2014-06-11 19:17:22
 
 	Enter之後會要你填入各種資訊：
 
-> Country Name (2 letter code) [AU]:<span class="highlight">HK</span>
+> Country Name (2 letter code) [AU]:HK
 >
-> 		State or Province Name (full name) [Some-State]:<span class="highlight">Hong Kong</span>
+> 		State or Province Name (full name) [Some-State]:Hong Kong
 >
-> 		Locality Name (eg, city) []:<span class="highlight">Hong Kong</span>
+> 		Locality Name (eg, city) []:Hong Kong
 >
 > 		Organization Name (eg, company) [Internet Widgits Pty Ltd]:3rd Organ
 >
-> 		Organizational Unit Name (eg, section) []:<span class="highlight">Lilith Cert</span>
+> 		Organizational Unit Name (eg, section) []:Lilith Cert
 >
 > 		Common Name (e.g. server FQDN or YOUR name) []:blog.lenchan139.org
 >
-> 		Email Address []:<span class="highlight">webadmin@lenchan139.org</span>
+> 		Email Address []:webadmin@lenchan139.org
 
 	之後修改SSL設定：
 
@@ -74,11 +74,11 @@ date: 2014-06-11 19:17:22
 >
 > 		&nbsp;&nbsp;&nbsp; &lt;VirtualHost _default_:443&gt;
 >
-> 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ServerAdmin <span style="color:#FF0000;">admin@example.com</span>
+> 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ServerAdmin admin@example.com
 >
-> 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ServerName <span style="color:#FF0000;">your_domain.com</span>
+> 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ServerName your_domain.com
 >
-> 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ServerAlias <span style="color:#FF0000;">www.your_domain.com</span>
+> 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ServerAlias www.your_domain.com
 >
 > 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DocumentRoot /var/www/html
 >
@@ -88,9 +88,9 @@ date: 2014-06-11 19:17:22
 >
 > 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SSLEngine on
 >
-> 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SSLCertificateFile <span style="color:#FF0000;">/etc/apache2/ssl/apache.crt</span>
+> 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SSLCertificateFile /etc/apache2/ssl/apache.crt
 >
-> 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SSLCertificateKeyFile<span style="color:#FF0000;"> /etc/apache2/ssl/apache.key</span>
+> 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SSLCertificateKeyFile /etc/apache2/ssl/apache.key
 >
 > 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;FilesMatch &quot;.(cgi|shtml|phtml|php)$&quot;&gt;
 >

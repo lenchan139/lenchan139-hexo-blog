@@ -142,7 +142,7 @@ date: 2018-04-30 21:31:16
     ctl.dmixer {
       type hw
       card 0
-    }`</pre> [asound.conf](https://gist.github.com/a778fe4f30fe3b177be76d3eb564513c "See asound.conf") [view raw](https://gist.githubusercontent.com/lenchan139/a778fe4f30fe3b177be76d3eb564513c/raw/0ac81c2bfabcff22868a302265e701e23c7951aa/asound.conf "Back to asound.conf")  
+    }` [asound.conf](https://gist.github.com/a778fe4f30fe3b177be76d3eb564513c "See asound.conf") [view raw](https://gist.githubusercontent.com/lenchan139/a778fe4f30fe3b177be76d3eb564513c/raw/0ac81c2bfabcff22868a302265e701e23c7951aa/asound.conf "Back to asound.conf")  
 
     3.2.降級落mono：
 

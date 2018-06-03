@@ -19,7 +19,7 @@ categories:
 date: 2013-10-13 12:57:00
 ---
 
-大家好，我是 <strike>勞模</strike> 雪娘……今天我們要搞的就乳題（捧讀）。爲什麼我會想這樣搞呢，是因爲KDE下我還是避免不了用GTK+的軟件，然後KDE下不論有沒有掛載都顯示相關記憶體，但是GTK+則掛載纔有（捧讀），因此，我就查了各種文件後搞出這個（捧讀）
+大家好，我是 勞模 雪娘……今天我們要搞的就乳題（捧讀）。爲什麼我會想這樣搞呢，是因爲KDE下我還是避免不了用GTK+的軟件，然後KDE下不論有沒有掛載都顯示相關記憶體，但是GTK+則掛載纔有（捧讀），因此，我就查了各種文件後搞出這個（捧讀）
 
 首先我們來搞自動掛載，先直接鍵入：
 `sudo kate /etc/udev/rules.d/11-media-by-label-auto-mount.rules`
@@ -61,7 +61,7 @@ LABEL="media_by_label_auto_mount_end"
 然後再來修改，讓mount/umount不用su權限：
 `sudo kate /usr/share/polkit-1/actions/org.freedesktop.udisks2.policy`
 搜尋所有：
-`<allow_active>auth_admin_keep</allow_active>` 並取代爲：
-`<allow_active>Yes</allow_active>`
+`auth_admin_keep` 並取代爲：
+`Yes`
 
 完成！

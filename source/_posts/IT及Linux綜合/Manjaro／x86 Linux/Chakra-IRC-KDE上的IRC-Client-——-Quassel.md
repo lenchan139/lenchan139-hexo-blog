@@ -15,9 +15,9 @@ date: 2014-05-11 23:26:09
 
 &nbsp;
 
-	<span>套件名字：Quassel</span>
+	套件名字：Quassel
 
-	<span>用途：IRC聊天</span>
+	用途：IRC聊天
 
 	&nbsp;
 

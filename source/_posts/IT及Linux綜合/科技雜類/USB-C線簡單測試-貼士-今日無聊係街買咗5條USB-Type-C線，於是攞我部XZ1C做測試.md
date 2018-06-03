@@ -123,6 +123,6 @@ Type-C 鬆緊度：緊
 
 無事我聽日去買條原廠線啦。btw，附送大家睇吓56k ohm換成10k ohm會發生咩事：
 
-<iframe src="//www.youtube.com/embed/CZxVkcVksdI" width="560" height="314" allowfullscreen="allowfullscreen"></iframe>
+
 
 &nbsp;

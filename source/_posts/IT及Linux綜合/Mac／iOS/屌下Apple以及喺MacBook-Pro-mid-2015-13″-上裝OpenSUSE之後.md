@@ -28,7 +28,7 @@ date: 2018-03-07 13:41:48
 *   長期佔用Docker位置嘅Finder……屌你啦。
 *   tray同menu bar合體，搞到有時候啲menu長嘅某啲tray icon會消失……比個scrolling啦好嗎？
 *   Paste Folder default option係replace——即係folder嘅舊files會消失嗮。
-*   Paste Folder 時候一時有，一時無d<span class="RichText CopyrightRichText-richText">uplicate </span>嘅option……fuck
+*   Paste Folder 時候一時有，一時無duplicate 嘅option……fuck
 *   finder 嘅搜索default唔係搜尋當前folder，而係全局搜尋……WTF？
 *   MTP……MTP……MTP！
 *   古怪嘅判定：disable touchpad when mouse plugged in &lt;&lt; 唔少藍牙mouse係唔會work嘅
@@ -52,69 +52,69 @@ date: 2018-03-07 13:41:48
 
 之後較大Tray Icons，鍵入：
 
-<div class="code-embed-wrapper">
 
-    sudo nano /usr/share/plasma/plasmoids/org.kde.plasma.private.systemtray/contents/config/main.xml`</pre> <div class="code-embed-infos"> </div> </div>
+
+    sudo nano /usr/share/plasma/plasmoids/org.kde.plasma.private.systemtray/contents/config/main.xml`   
 
     搜尋：
 
-    <div class="code-embed-wrapper"> <pre class="language-markup code-embed-pre"  data-start="1" data-line-offset="0">`&lt;entry name=&quot;iconSize&quot; type=&quot;Int&quot;&gt;
+     `&lt;entry name=&quot;iconSize&quot; type=&quot;Int&quot;&gt;
     &lt;label&gt;Default icon size for the systray icons, it&#039;s an enum which values mean,
     Small, SmallMedium, Medium, Large, Huge, Enormous respectively. On low
     DPI systems they correspond to 16, 22, 32, 48, 64, 128 pixels. On high
     DPI systems those values would be scaled up, depending on the DPI.&lt;/label&gt;
     &lt;default&gt;1&lt;/default&gt;
-    &lt;/entry&gt;`</pre> <div class="code-embed-infos"> </div> </div>
+    &lt;/entry&gt;`   
 
     將
 
-    <div class="code-embed-wrapper"> <pre class="language-markup code-embed-pre"  data-start="1" data-line-offset="0">`&lt;default&gt;1&lt;/default&gt;`</pre> <div class="code-embed-infos"> </div> </div>
+     `&lt;default&gt;1&lt;/default&gt;`   
 
     改成
 
-    <div class="code-embed-wrapper"> <pre class="language-markup code-embed-pre"  data-start="1" data-line-offset="0">`&lt;default&gt;2&lt;/default&gt;`</pre> <div class="code-embed-infos"> </div> </div>
+     `&lt;default&gt;2&lt;/default&gt;`   
 
     鍵入：
 
-    <div class="code-embed-wrapper"> <pre class="language-bash code-embed-pre"  data-start="1" data-line-offset="0">`sudo nano ~/.config/plasma-org.kde.plasma.desktop-appletsrc`</pre> <div class="code-embed-infos"> </div> </div>
+     `sudo nano ~/.config/plasma-org.kde.plasma.desktop-appletsrc`   
 
     修改iconSize：
 
-    <div class="code-embed-wrapper"> <pre class="language-bash code-embed-pre"  data-start="1" data-line-offset="0">`[Containments][47][General]
+     `[Containments][47][General]
     extraItems=org.kde.plasma.mediacontroller,org.kde.plasma.battery,org.kde.plasma.printmanager,org.kde.plasma.bluetooth,org.kde.plasma.clipboard,org.kde.plasma.notifications,org.kde.plasma.networkmanagement,org.kde.plasma.devicenotifier
     hiddenItems=org.kde.ktp-contactlist,org.kde.plasma.battery
     knownItems=org.kde.plasma.mediacontroller,org.kde.plasma.battery,org.kde.plasma.printmanager,org.kde.plasma.bluetooth,org.kde.plasma.clipboard,org.kde.plasma.notifications,org.kde.plasma.networkmanagement,org.kde.plasma.devicenotifier
     shownItems=org.kde.plasma.notifications,org.kde.plasma.clipboard
-    iconSize=1`</pre> <div class="code-embed-infos"> </div> </div>
+    iconSize=1`   
 
     變成：
 
-    <div class="code-embed-wrapper"> <pre class="language-markup code-embed-pre"  data-start="1" data-line-offset="0">`[Containments][47][General]
+     `[Containments][47][General]
     extraItems=org.kde.plasma.mediacontroller,org.kde.plasma.battery,org.kde.plasma.printmanager,org.kde.plasma.bluetooth,org.kde.plasma.clipboard,org.kde.plasma.notifications,org.kde.plasma.networkmanagement,org.kde.plasma.devicenotifier
     hiddenItems=org.kde.ktp-contactlist,org.kde.plasma.battery
     knownItems=org.kde.plasma.mediacontroller,org.kde.plasma.battery,org.kde.plasma.printmanager,org.kde.plasma.bluetooth,org.kde.plasma.clipboard,org.kde.plasma.notifications,org.kde.plasma.networkmanagement,org.kde.plasma.devicenotifier
     shownItems=org.kde.plasma.notifications,org.kde.plasma.clipboard
-    iconSize=2`</pre> <div class="code-embed-infos"> </div> </div>
+    iconSize=2`   
 
     之後設定全局嘅，鍵入：
 
-    <div class="code-embed-wrapper"> <pre class="language-markup code-embed-pre"  data-start="1" data-line-offset="0">`sudo nano ~/.xprofile`</pre> <div class="code-embed-infos"> </div> </div>
+     `sudo nano ~/.xprofile`   
 
     填入：
 
-    <div class="code-embed-wrapper"> <pre class="language-bash code-embed-pre"  data-start="1" data-line-offset="0">`export QT_AUTO_SCREEN_SCALE_FACTOR=1
+     `export QT_AUTO_SCREEN_SCALE_FACTOR=1
     export GDK_SCALE=2
     export GDK_DPI_SCALE=0.5
-     export ELM_SCALE=1.5`</pre> <div class="code-embed-infos"> </div> </div>
+     export ELM_SCALE=1.5`   
 
     修改SDDM 嘅 DPI，鍵入：
 
-    <div class="code-embed-wrapper"> <pre class="language-markup code-embed-pre"  data-start="1" data-line-offset="0">`sudo nano /etc/sddm.conf`</pre> <div class="code-embed-infos"> </div> </div>
+     `sudo nano /etc/sddm.conf`   
 
     加入：
 
-    <div class="code-embed-wrapper"> <pre class="language-bash code-embed-pre"  data-start="1" data-line-offset="0">`
-    ServerArguments=-dpi 166`</pre> <div class="code-embed-infos"> </div> </div>
+     `
+    ServerArguments=-dpi 166`   
 
     ### 方法二：降維打擊
 
@@ -122,48 +122,48 @@ date: 2018-03-07 13:41:48
 
     首先搵可能嘅resolution，推薦2240*1400呢個：
 
-    <div class="code-embed-wrapper"> <pre class="language-bash code-embed-pre"  data-start="1" data-line-offset="0">`cvt 1728 1080`</pre> <div class="code-embed-infos"> </div> </div>
+     `cvt 1728 1080`   
 
     之後會出現嘅如下劇情：
 
-    <div class="code-embed-wrapper"> <pre class="language-markup code-embed-pre"  data-start="1" data-line-offset="0">`len@linux-1apr:/opt/vivaldi/resources/vivaldi/style&gt; cvt 1728 1080# 1728x1080 59.94 Hz (CVT 1.87MA) hsync: 67.13 kHz; pclk: 155.75 MHz
-    Modeline &quot;1728x1080_60.00&quot;  155.75  1728 1840 2024 2320  1080 1083 1089 1120 -hsync +vsync`</pre> <div class="code-embed-infos"> </div> </div>
+     `len@linux-1apr:/opt/vivaldi/resources/vivaldi/style&gt; cvt 1728 1080# 1728x1080 59.94 Hz (CVT 1.87MA) hsync: 67.13 kHz; pclk: 155.75 MHz
+    Modeline &quot;1728x1080_60.00&quot;  155.75  1728 1840 2024 2320  1080 1083 1089 1120 -hsync +vsync`   
 
     copy &#8220;1728x1080_60.00&#8221; 之後嘅，鍵入：
 
-    <div class="code-embed-wrapper"> <pre class="language-bash code-embed-pre"  data-start="1" data-line-offset="0">`xrandr --newmode &quot;1728x1080_60.00&quot;  155.75  1728 1840 2024 2320  1080 1083 1089 1120 -hsync +vsync`</pre> <div class="code-embed-infos"> </div> </div>
+     `xrandr --newmode &quot;1728x1080_60.00&quot;  155.75  1728 1840 2024 2320  1080 1083 1089 1120 -hsync +vsync`   
 
     list搵返個mon嘅名：
 
-    <div class="code-embed-wrapper"> <pre class="language-bash code-embed-pre"  data-start="1" data-line-offset="0">`xrandr --listmonitors`</pre> <div class="code-embed-infos"> </div> </div>
+     `xrandr --listmonitors`   
 
     結果：
 
-    <div class="code-embed-wrapper"> <pre class="language-markup code-embed-pre"  data-start="1" data-line-offset="0">`Monitors: 1
-    0: +*eDP-1 1728/286x1080/179+0+0  eDP-1`</pre> <div class="code-embed-infos"> </div> </div>
+     `Monitors: 1
+    0: +*eDP-1 1728/286x1080/179+0+0  eDP-1`   
 
     之後add返落來：
 
-    <div class="code-embed-wrapper"> <pre class="language-bash code-embed-pre"  data-start="1" data-line-offset="0">`xrandr --addmode eDP-1 &quot;1728x1080_60.00&quot;`</pre> <div class="code-embed-infos"> </div> </div>
+     `xrandr --addmode eDP-1 &quot;1728x1080_60.00&quot;`   
 
     之後去configure desktop較返就得啦。
 
-    <div class="code-embed-wrapper"> <pre class="language-markup code-embed-pre"  data-start="1" data-line-offset="0">`xrandr --output eDP-1 --mode “1728x1080_60.00”`</pre> <div class="code-embed-infos"> </div> </div>
+     `xrandr --output eDP-1 --mode “1728x1080_60.00”`   
 
     ### Grave 掣調整
 
     之後下個問題係grave（即係 ´´´´同~~個個掣啊）唔啱，使用xmodmap強行修改，鍵入：
 
-    <div class="code-embed-wrapper"> <pre class="language-bash code-embed-pre"  data-start="1" data-line-offset="0">`nano ~/.xmodmap`</pre> <div class="code-embed-infos"> </div> </div>
+     `nano ~/.xmodmap`   
 
     使用 xev 搵到keycode（我係94），之後輸入：
 
-    <div class="code-embed-wrapper"> <pre class="language-markup code-embed-pre"  data-start="1" data-line-offset="0">`keycode 94 = grave asciitilde`</pre> <div class="code-embed-infos"> </div> </div>
+     `keycode 94 = grave asciitilde`   
 
     之後載入返設定
 
-    <div class="code-embed-wrapper"> <pre class="language-bash code-embed-pre"  data-start="1" data-line-offset="0">`xmodmap ~/.xmodmap
- <div class="code-embed-infos"> </div> </div>
+     `xmodmap ~/.xmodmap
+
 
 就解決啦。
 

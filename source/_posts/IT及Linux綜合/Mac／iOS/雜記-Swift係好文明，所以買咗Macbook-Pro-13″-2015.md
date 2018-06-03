@@ -16,7 +16,7 @@ categories:
 date: 2017-01-19 22:44:48
 ---
 
-> [![](https://lenchan139.org/blog/wp-content/uploads/2017/01/Screen-Shot-2017-01-19-at-10.32.00-PM-1024x640.png)](https://lenchan139.org/blog/wp-content/uploads/2017/01/Screen-Shot-2017-01-19-at-10.32.00-PM.png)<span style="font-size:28px;"><span style="color:#FF0000;">**Swiftは良い文明。**</span></span>
+> [![](https://lenchan139.org/blog/wp-content/uploads/2017/01/Screen-Shot-2017-01-19-at-10.32.00-PM-1024x640.png)](https://lenchan139.org/blog/wp-content/uploads/2017/01/Screen-Shot-2017-01-19-at-10.32.00-PM.png)**Swiftは良い文明。**
 
 	最近新學期新期望，望咗下呢期要學Swift，咪自己去研究下&hellip;&hellip;發覺其實Swift係個好文明。
 

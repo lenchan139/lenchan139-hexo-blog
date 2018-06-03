@@ -19,7 +19,7 @@ date: 2016-06-12 15:05:49
 
 	&#8212; From [Wikipedia](https://zh.wikipedia.org/wiki/WordPress#.E7.89.B9.E6.80.A7)
 
-	<span id="more-588"></span>
+
 
 	為什麼選擇WordPress呢？好吧其實因為習慣&hellip;&hellip;我之前就是使用WordPress.com的服務，可惜限制太多，而付費又太貴，倒不如自己動手架設便宜，所以就有這篇教學文啦！
 
@@ -47,25 +47,25 @@ date: 2016-06-12 15:05:49
 
 	建立一個資料庫：
 
-> CREATE DATABASE <span class="highlight">wordpress</span>;
+> CREATE DATABASE wordpress;
 
 	建立一個普通的SQL的用戶：
 
-> CREATE USER <span class="highlight">wordpressuser</span>@localhost;
+> CREATE USER wordpressuser@localhost;
 
 	然後設定用戶的密碼，請自己將紅字部分修改成你要的密碼：
 
-> SET PASSWORD FOR <span class="highlight">wordpressuser</span>@localhost= PASSWORD(&quot;<span style="color:#FF0000;"><span class="highlight">password</span></span>&quot;);
+> SET PASSWORD FOR wordpressuser@localhost= PASSWORD(&quot;password&quot;);
 
 	賦予該用戶存取開頭建立的Database的權限，紅字部分請再自行修改：
 
-> GRANT ALL PRIVILEGES ON <span class="highlight">wordpress</span>.* TO <span class="highlight">wordpressuser</span>@localhost IDENTIFIED BY &#39;<span style="color:#FF0000;"><span class="highlight">password</span></span>&#39;;
+> GRANT ALL PRIVILEGES ON wordpress.* TO wordpressuser@localhost IDENTIFIED BY &#39;password&#39;;
 
 	刷新MySQL：
 
 > FLUSH PRIVILEGES;
 
-	然後鍵入<span style="color:#FF0000;">** exit **</span>離開。
+	然後鍵入** exit **離開。
 
 	接著我們複製並改了wordpress的設定檔的名字：
 
@@ -81,15 +81,15 @@ date: 2016-06-12 15:05:49
 >
 > 		/** WordPress 的資料庫名稱，請更改 &quot;database_name_here&quot; */
 >
-> 		define(&#39;DB_NAME&#39;, &#39;<span style="color:#FF0000;">database_name_here</span>&#39;);
+> 		define(&#39;DB_NAME&#39;, &#39;database_name_here&#39;);
 >
 > 		/** MySQL 資料庫使用者名稱，請更改 &quot;username_here&quot; */
 >
-> 		define(&#39;DB_USER&#39;, &#39;<span style="color:#FF0000;">username_here</span>&#39;);
+> 		define(&#39;DB_USER&#39;, &#39;username_here&#39;);
 >
 > 		/** MySQL 資料庫密碼，請更改 &quot;password_here&quot; */
 >
-> 		define(&#39;DB_PASSWORD&#39;, &#39;<span style="color:#FF0000;">password_here</span>&#39;);
+> 		define(&#39;DB_PASSWORD&#39;, &#39;password_here&#39;);
 
 	結果應該如此：
 
@@ -97,15 +97,15 @@ date: 2016-06-12 15:05:49
 >
 > 		/** WordPress 的資料庫名稱，請更改 &quot;database_name_here&quot; */
 >
-> 		define(&#39;DB_NAME&#39;, &#39;<span style="color:#FF0000;">wordpress</span>&#39;);
+> 		define(&#39;DB_NAME&#39;, &#39;wordpress&#39;);
 >
 > 		/** MySQL 資料庫使用者名稱，請更改 &quot;username_here&quot; */
 >
-> 		define(&#39;DB_USER&#39;, &#39;<span style="color:#FF0000;">wordpressuser</span>&#39;);
+> 		define(&#39;DB_USER&#39;, &#39;wordpressuser&#39;);
 >
 > 		/** MySQL 資料庫密碼，請更改 &quot;password_here&quot; */
 >
-> 		define(&#39;DB_PASSWORD&#39;, &#39;<span style="color:#FF0000;">password</span>&#39;);
+> 		define(&#39;DB_PASSWORD&#39;, &#39;password&#39;);
 
 	儲存並離開。
 
@@ -123,7 +123,7 @@ date: 2016-06-12 15:05:49
 
 > sudo chown -R wwwrun: /srv/www/htdocs
 
-	<span class="highlight">最後安裝一個php的模組：</span>
+	最後安裝一個php的模組：
 
 > zypper in php5-curl php5-zlib
 
@@ -137,7 +137,7 @@ date: 2016-06-12 15:05:49
 
 	然後
 
-> SET PASSWORD FOR <span class="highlight">wordpressuser</span>@localhost= OLD_PASSWORD(&quot;<span style="color:#FF0000;"><span class="highlight">password</span></span>&quot;);
+> SET PASSWORD FOR wordpressuser@localhost= OLD_PASSWORD(&quot;password&quot;);
 
 	同樣，自行修改紅字。
 
@@ -147,7 +147,7 @@ date: 2016-06-12 15:05:49
 
 	&#8211;
 
-	參考資料<span style="color:#D3D3D3;"><strike>資料複製來源</strike></span>：
+	參考資料資料複製來源：
 
 	How To Install WordPress on Ubuntu 12.04 By Etel Sverdlov
 

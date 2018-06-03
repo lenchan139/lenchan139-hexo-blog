@@ -20,7 +20,7 @@ date: 2016-12-21 16:54:46
 
 	&nbsp;
 
-	<span style="font-family:tahoma,geneva,sans-serif;">**_<span style="color:#FF0000;"><u><span style="font-size:72px;">屌你YouTube！</span></u></span>_**</span>
+	**_屌你YouTube！_**
 
 	&nbsp;
 

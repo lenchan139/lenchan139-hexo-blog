@@ -54,7 +54,7 @@ date: 2012-04-01 23:00:00
 就在4月1日，chrome宣佈推出這個多工處理的新功能，容許你同時使用多個滑鼠操作一臺電腦。
 
 [![](https://lenchan139.files.wordpress.com/2012/04/e89ea2e5b995e688aae59c96e5ad98e782ba-2012-04-01-144246.png?w=1024 "螢幕截圖存為 2012-04-01 14:42:46")](https://lenchan139.files.wordpress.com/2012/04/e89ea2e5b995e688aae59c96e5ad98e782ba-2012-04-01-144246.png)
-<div class="video-container"><iframe class='youtube-player' type='text/html' width='640' height='390' src='https://www.youtube.com/embed/UiLSiqyDf4Y?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></div>
+
 
 這是介紹影片。
 

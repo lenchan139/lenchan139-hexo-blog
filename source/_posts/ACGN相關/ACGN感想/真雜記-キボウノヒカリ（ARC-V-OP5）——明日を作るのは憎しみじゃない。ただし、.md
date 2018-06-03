@@ -11,13 +11,13 @@ categories:
 date: 2016-04-14 00:17:21
 ---
 
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/sqPDrjcWAzw" width="560"></iframe>
+
 
 	&nbsp;
 
-	<span style="color:#FF0000;"><span style="font-size: 16px;">**「明日を作るのは　憎しみなんかじゃない。」**</span></span>
+	**「明日を作るのは　憎しみなんかじゃない。」**
 
-	<span style="color:#FF0000;"><span style="font-size: 16px;">**（開創未來的，絕不是憎恨。）**</span></span>
+	**（開創未來的，絕不是憎恨。）**
 
 	&nbsp;
 

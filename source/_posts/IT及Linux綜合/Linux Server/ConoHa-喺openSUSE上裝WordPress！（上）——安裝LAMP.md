@@ -32,7 +32,7 @@ As we know, Internet is very common nowadays.So many people have their own blogs
 
 	PS：本文章正是以 OpenSUSE Leap 42.1 爲準，如果有差異&hellip;&hellip;自行解決。
 
-	<span id="more-586"></span>
+
 
 	&#8211;
 
@@ -72,7 +72,7 @@ As we know, Internet is very common nowadays.So many people have their own blogs
 
 	然後需要安裝MySQL，鍵入：
 
-> <span style="font-weight: bold;">zypper in mariadb mariadb-tools</span>
+> zypper in mariadb mariadb-tools
 
 	在安裝過程中它會叫你設置SQL的Root密碼，自己重複兩遍&hellip;&hellip;
 
@@ -124,7 +124,7 @@ As we know, Internet is very common nowadays.So many people have their own blogs
 
 	&#8211;
 
-	參考資料<span style="color:#D3D3D3;"><strike>資料複製來源</strike></span>：
+	參考資料資料複製來源：
 
 	[https://en.opensuse.org/SDB:LAMP_setup#Installing_Apache2](https://en.opensuse.org/SDB:LAMP_setup#Installing_Apache2)
 

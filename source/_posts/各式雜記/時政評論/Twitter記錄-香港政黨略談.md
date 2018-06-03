@@ -13,46 +13,44 @@ date: 2014-08-29 22:58:37
 >
 > 	&mdash; レンちゃん@うふふっ、死んじゃえ〜♪ (@lenchan139) [August 29, 2014](https://twitter.com/lenchan139/statuses/505347025114632192)
 
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 > [@lenchan139](https://twitter.com/lenchan139) 接上。 當然，嚴格而言此種說法也極有不妥之處。例如民建聯和工聯會即使親共，他們對於一些唔關政治事嘅事亦有不大同嘅立場。例如民建聯極爲親政府親共，基本上唔會得罪方丈嘅佢哋都會支持政府。但工聯會在一啲勞工權益上面嘅事，會有自己一啲嘅堅持&mdash;&mdash;能否堅持都最後是後話
 >
 > 	&mdash; レンちゃん@うふふっ、死んじゃえ〜♪ (@lenchan139) [August 29, 2014](https://twitter.com/lenchan139/statuses/505349728138055680)
 
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 > [@lenchan139](https://twitter.com/lenchan139) 再接上。 而親商建制亦都好funny。其實一直以來商界都係好似共產黨宣傳咁樣：「中國好，香港好。香港好，中國好。」 但係好可惜，表面嘢嚟啫，實際上商家喺未必和共產黨合得來。因爲共產黨只講政治，而商人只講錢。而成功令商共分裂嘅最大推手叫做CY，大家都記得掛？
 >
 > 	&mdash; レンちゃん@うふふっ、死んじゃえ〜♪ (@lenchan139) [2014 8月 29日](https://twitter.com/lenchan139/statuses/505350573185462272)
 
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 > [@lenchan139](https://twitter.com/lenchan139) 再接接上。 溫和民主派&mdash;&mdash;無咗民主黨之後其實叫準本土派比較貼切。其實有眼睇，公民黨加下都要打本土，捍衛本土權益。點解咁？主要原因因爲公民黨呢個大狀黨嘅主要票源喺專業人士。乜公民提名、中港矛盾嘅事，佢哋明咩事架，無得好似民建聯果啲選民咁用錢解決到嘅。
 >
 > 	&mdash; レンちゃん@うふふっ、死んじゃえ〜♪ (@lenchan139) [2014 8月 29日](https://twitter.com/lenchan139/statuses/505351898417737729)
 
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 > [@lenchan139](https://twitter.com/lenchan139) 再再接接上。 激進民主派&hellip;&hellip;可以同準建制一齊講。 身爲準建制嘅民主黨簡直喺越來越不知所謂。我說的不知所謂真喺&mdash;唔知佢噏乜。 「真普選，無篩選。」 「咁即喺點？」 「咪無不合理嘅篩選囉。」 「咁點爲之不合理嘅篩選？」「err&hellip;」
 >
 > 	&mdash; レンちゃん@うふふっ、死んじゃえ〜♪ (@lenchan139) [2014 8月 29日](https://twitter.com/lenchan139/statuses/505355416042102784)
 
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 > [@lenchan139](https://twitter.com/lenchan139) 再再接接接上。 呢種唔湯唔水嘅說話其實喺個好差表現。可能會有一啲梁姓的僞文人真商人會爲他們哀悼，但是就我個人而言，如果不改變，民主黨這種溫文只會令他們暴斃死。還記得新民主同盟嗎？他們的出現是因爲不滿民主黨在五區公投的和理非非，因而「叛變」。
 >
 > 	&mdash; レンちゃん@うふふっ、死んじゃえ〜♪ (@lenchan139) [2014 8月 29日](https://twitter.com/lenchan139/statuses/505363655420936193)
 
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 > [@lenchan139](https://twitter.com/lenchan139) 接上x唔知幾多。 其實從果時以後，民主黨就不停慘跌。 08選舉時候民主黨有8/30席，被10年嘅政改單「密室談判」（等等）一搞，啲票去咗建制派（有些香港人總是很現實）同啲新興組織如新民主同盟同埋成功上位嘅葉建源到。
 >
 > 	&mdash; レンちゃん@うふふっ、死んじゃえ〜♪ (@lenchan139) [2014 8月 29日](https://twitter.com/lenchan139/statuses/505365717437251584)
 
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 > [@lenchan139](https://twitter.com/lenchan139) Final。 呢句啲泛民大哥大姐一定睇我唔到但係黃永健吾之流嘅一定同啲某些飯民哥哥姐姐講無數次： 醒啦，夠鐘醒啦飯民。唔好再諗住左右逢源，唔好諗住食四方茶飯，唔好再講「無我哋妥協范國威點入議會」啦。個現實喺，慣性投票畀你哋嘅人會越來越少最後慘死嫁咋，飯民。
 >
 > 	&mdash; レンちゃん@うふふっ、死んじゃえ〜♪ (@lenchan139) [2014 8月 29日](https://twitter.com/lenchan139/statuses/505366756743856129)
-
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

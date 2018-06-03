@@ -21,8 +21,8 @@ date: 2016-03-05 16:25:50
 
 	打開Terminal，鍵入：
 
-<pre class="bash" style="font-family:monospace;">
-sudo rpm <span style="color: #660033;">-i</span> jdk-8u73-linux-x64.rpm</pre>
+
+sudo rpm -i jdk-8u73-linux-x64.rpm
 
 	之後設定安裝的Java爲系統預設Java（如果唔係8u73請自行將jdk1.8.0_73修改爲適合嘅名稱）：
 
@@ -48,8 +48,8 @@ sudo rpm <span style="color: #660033;">-i</span> jdk-8u73-linux-x64.rpm</pre>
 
 	加入：
 
-<pre class="bash" style="font-family:monospace;">
-<span style="color: #7a0874; font-weight: bold;">export</span> <span style="color: #007800;">JAVA_HOME</span>=<span style="color: #000000; font-weight: bold;">/</span>usr<span style="color: #000000; font-weight: bold;">/</span>java<span style="color: #000000; font-weight: bold;">/</span>latest</pre>
+
+export JAVA_HOME=/usr/java/latest
 
 	儲存離開。
 

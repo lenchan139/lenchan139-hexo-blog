@@ -5,9 +5,9 @@ tags:
   - Plasma
   - Plasma5
   - KDE　
-  -　automount
+  - automount
   - 自動掛載
-  - Service Manager 
+  - Service Manager
 categories:
   - IT及Linux綜合
   - Manjaro／x86 Linux

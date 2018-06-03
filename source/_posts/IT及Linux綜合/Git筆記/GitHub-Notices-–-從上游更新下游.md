@@ -12,9 +12,9 @@ categories:
 date: 2014-02-23 12:38:37
 ---
 
-`<span class="identifier">複製某個repo下來</span>`
+`複製某個repo下來`
 
-> `<span class="identifier">git</span> <span class="identifier"><span class="keymethods">clone</span></span> --bare <span class="identifier">git</span><span class="variable">@github</span>.<span class="identifier">com</span><span class="symbol">:upstream_username</span>/repo.<span class="identifier">git</span>`
+> `git clone --bare git@github.com:upstream_username/repo.git`
 
 	進入該repo
 
@@ -22,7 +22,7 @@ date: 2014-02-23 12:38:37
 
 	上傳剛纔clone下來的repo
 
-> git&nbsp; push &#8211;mirror `<span class="identifier">git</span><span class="variable">@github</span>.<span class="identifier">com</span><span class="symbol">:username</span>/repo.<span class="identifier">git</span>`
+> git&nbsp; push &#8211;mirror `git@github.com:username/repo.git`
 
 	&#8211;
 

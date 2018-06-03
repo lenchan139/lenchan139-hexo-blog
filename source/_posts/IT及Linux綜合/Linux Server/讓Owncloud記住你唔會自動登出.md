@@ -24,12 +24,12 @@ date: 2016-12-19 23:04:41
 
 	把
 
-> <pre>>
-> `&lt;rememberlogin&gt;false&lt;/rememberlogin&gt; `</pre>
+>>
+> `&lt;rememberlogin&gt;false&lt;/rememberlogin&gt; `
 
 	改爲
 
-> <pre>>
-> `&lt;rememberlogin&gt;true&lt;/rememberlogin&gt; `</pre>
+>>
+> `&lt;rememberlogin&gt;true&lt;/rememberlogin&gt; `
 
 	`完成`

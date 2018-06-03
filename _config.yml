@@ -13,7 +13,7 @@ timezone: Hongkong
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://blog.tto.moe
 root: /
 permalink: p/:title/
 permalink_defaults:
@@ -107,7 +107,13 @@ auto_tagger:
     - Linux
     - Psycho-Pass
 
+#search
+search:
+  path: search.json
+  field: post
 #Sitemap settings
+sitemap:
+    path: sitemap.xml
 auto_dir_categorize:
   enable: true  # options:true, false; default is true
   force: false # options:true, false; default is false

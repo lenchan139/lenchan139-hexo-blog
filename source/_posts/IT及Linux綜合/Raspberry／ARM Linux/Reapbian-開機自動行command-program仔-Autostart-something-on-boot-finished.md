@@ -18,13 +18,13 @@ date: 2016-10-20 20:34:10
 
 如題，Google到修改呢個文件：
 
-> <pre>>
-> sudo nano&nbsp;`~/.config/lxsession/LXDE/autostart`</pre>
+>>
+> sudo nano&nbsp;`~/.config/lxsession/LXDE/autostart`
 
 	`但係唔成功，話無呢個file人手搵咗下發現個名有少少變更，鍵入：`
 
-> <pre>>
-> sudo nano&nbsp;`~/.config/lxsession/LXDE-pi/autostart`</pre>
+>>
+> sudo nano&nbsp;`~/.config/lxsession/LXDE-pi/autostart`
 
 	`跟住輸入假設我要開機自動行 syncthing 呢個command就：`
 

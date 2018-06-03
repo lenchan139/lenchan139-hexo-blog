@@ -69,7 +69,7 @@ date: 2016-09-15 19:11:17
 
 	動畫好似唔錯w
 
-	![uv8ttnd](https://lenchan139.org/blog/wp-content/uploads/2016/09/UV8ttND-300x168.gif)![](https://i.imgur.com/UV8ttND.gif)![](https://i.imgur.com/UV8ttND.gifv)<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="quality" value="high" /><param name="movie" value="https://i.imgur.com/UV8ttND.gifv" /><embed allowfullscreen="true" pluginspage="https://www.macromedia.com/go/getflashplayer" quality="high" src="https://i.imgur.com/UV8ttND.gifv" type="application/x-shockwave-flash"></embed></object>
+	![uv8ttnd](https://lenchan139.org/blog/wp-content/uploads/2016/09/UV8ttND-300x168.gif)![](https://i.imgur.com/UV8ttND.gif)![](https://i.imgur.com/UV8ttND.gifv)
 
 	&#8211;
 

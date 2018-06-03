@@ -43,6 +43,6 @@ date: 2014-04-17 15:54:49
 
 	END.
 
-	<strike>參考資料</strike> 原文：
+	參考資料 原文：
 
 	Amanon EC2 上 WordPress 安裝 Plugin 的問題 [http://40era.com/1597/ ](http://40era.com/1597/)

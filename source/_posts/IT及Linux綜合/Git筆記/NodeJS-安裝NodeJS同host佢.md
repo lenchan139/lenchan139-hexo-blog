@@ -21,91 +21,91 @@ date: 2017-11-04 00:29:52
 
 首先喺安裝，Linux系列請：
 
-<div class="code-embed-wrapper">
 
-    curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.6/install.sh | bash`</pre> <div class="code-embed-infos"> </div> </div>
+
+    curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.6/install.sh | bash`   
 
     or你鍾意wget多啲嘅話：
 
-    <div class="code-embed-wrapper"> <pre class="language-bash code-embed-pre"  data-start="1" data-line-offset="0">`wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.33.6/install.sh | bash`</pre> <div class="code-embed-infos"> </div> </div>
+     `wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.33.6/install.sh | bash`   
 
     mac嘅話可以透過homebrew 安裝：
 
-    <div class="code-embed-wrapper"> <pre class="language-bash code-embed-pre"  data-start="1" data-line-offset="0">`brew install nvm`</pre> <div class="code-embed-infos"> </div> </div>
+     `brew install nvm`   
 
     之後edit bash profile。
 
     Linux：
 
-    <div class="code-embed-wrapper"> <pre class="language-bash code-embed-pre"  data-start="1" data-line-offset="0">`nano ~/.bashrc`</pre> <div class="code-embed-infos"> </div> </div>
+     `nano ~/.bashrc`   
 
     Mac：
 
-    <div class="code-embed-wrapper"> <pre class="language-bash code-embed-pre"  data-start="1" data-line-offset="0">`nano ~/.bash_profileb`</pre> <div class="code-embed-infos"> </div> </div>
+     `nano ~/.bash_profileb`   
 
     加入：
 
-    <div class="code-embed-wrapper"> <pre class="language-javascript code-embed-pre"  data-start="1" data-line-offset="0">`export NVM_DIR=&quot;$HOME/.nvm&quot;
-    [ -s &quot;$NVM_DIR/nvm.sh&quot; ] &amp;&amp; . &quot;$NVM_DIR/nvm.sh&quot; # This loads nvm`</pre> <div class="code-embed-infos"> </div> </div>
+     `export NVM_DIR=&quot;$HOME/.nvm&quot;
+    [ -s &quot;$NVM_DIR/nvm.sh&quot; ] &amp;&amp; . &quot;$NVM_DIR/nvm.sh&quot; # This loads nvm`   
 
     重新載入設定。
 
     Linux：
 
-    <div class="code-embed-wrapper"> <pre class="language-bash code-embed-pre"  data-start="1" data-line-offset="0">`source  ~/.bashrc`</pre> <div class="code-embed-infos"> </div> </div>
+     `source  ~/.bashrc`   
 
     Mac：
 
-    <div class="code-embed-wrapper"> <pre class="language-bash code-embed-pre"  data-start="1" data-line-offset="0">`source ~/.bash_profile`</pre> <div class="code-embed-infos"> </div> </div>
+     `source ~/.bash_profile`   
 
     搜尋可使用版本：
 
-    <div class="code-embed-wrapper"> <pre class="language-bash code-embed-pre"  data-start="1" data-line-offset="0">`nvm ls-remote`</pre> <div class="code-embed-infos"> </div> </div>
+     `nvm ls-remote`   
 
     安裝自定版本，以v9.0.0爲例：
 
-    <div class="code-embed-wrapper"> <pre class="language-bash code-embed-pre"  data-start="1" data-line-offset="0">`nvm install v9.0.0`</pre> <div class="code-embed-infos"> </div> </div>
+     `nvm install v9.0.0`   
 
     確定真的安裝好了：
 
-    <div class="code-embed-wrapper"> <pre class="language-bash code-embed-pre"  data-start="1" data-line-offset="0">`nvm ls`</pre> <div class="code-embed-infos"> </div> </div>
+     `nvm ls`   
 
     首先init個project：
 
-    <div class="code-embed-wrapper"> <pre class="language-bash code-embed-pre"  data-start="1" data-line-offset="0">`cd &lt;your project path&gt;`</pre> <div class="code-embed-infos"> </div> </div>
+     `cd &lt;your project path&gt;`   
 
     init個project（會有指示，跟住做就係）：
 
-    <div class="code-embed-wrapper"> <pre class="language-bash code-embed-pre"  data-start="1" data-line-offset="0">`npm init`</pre> <div class="code-embed-infos"> </div> </div>
+     `npm init`   
 
     總之寫啲code後然後執行嘅話：
 
-    <div class="code-embed-wrapper"> <pre class="language-bash code-embed-pre"  data-start="1" data-line-offset="0">`node index.js`</pre> <div class="code-embed-infos"> </div> </div>
+     `node index.js`   
 
     要長期執行嘅話可以透過pm2做deamon執行，安裝：
 
-    <div class="code-embed-wrapper"> <pre class="language-bash code-embed-pre"  data-start="1" data-line-offset="0">`npm install pm2 -g`</pre> <div class="code-embed-infos"> </div> </div>
+     `npm install pm2 -g`   
 
     令pm2會自動執行：
 
-    <div class="code-embed-wrapper"> <pre class="language-bash code-embed-pre"  data-start="1" data-line-offset="0">`pm2 startup ubuntu`</pre> <div class="code-embed-infos"> </div> </div>
+     `pm2 startup ubuntu`   
 
     host 個 app：
 
-    <div class="code-embed-wrapper"> <pre class="language-bash code-embed-pre"  data-start="1" data-line-offset="0">`pm2 start index.js`</pre> <div class="code-embed-infos"> </div> </div>
+     `pm2 start index.js`   
 
     查看host咗嘅app嘅狀態：
 
-    <div class="code-embed-wrapper"> <pre class="language-bash code-embed-pre"  data-start="1" data-line-offset="0">`pm status`</pre> <div class="code-embed-infos"> </div> </div>
+     `pm status`   
 
     停個app：
 
-    <div class="code-embed-wrapper"> <pre class="language-bash code-embed-pre"  data-start="1" data-line-offset="0">`pm stop index`</pre> <div class="code-embed-infos"> </div> </div>
+     `pm stop index`   
 
     移除個app：
 
-    <div class="code-embed-wrapper"> <pre class="language-bash code-embed-pre"  data-start="1" data-line-offset="0">`pm delete index
- <div class="code-embed-infos"> </div> </div>
+     `pm delete index
+
 
 &nbsp;
 

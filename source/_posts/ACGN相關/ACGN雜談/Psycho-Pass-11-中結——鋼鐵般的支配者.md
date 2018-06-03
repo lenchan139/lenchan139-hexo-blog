@@ -18,9 +18,9 @@ date: 2012-12-22 00:04:00
 
 Psycho-Pass(11)中結——鋼鐵般的支配者
 
-<div>[![](https://4.bp.blogspot.com/-E35f7BlOtVs/UNSIEv3PoQI/AAAAAAAAbMk/xS69l2I86F4/s640/psychopass_logo1.png)](https://4.bp.blogspot.com/-E35f7BlOtVs/UNSIEv3PoQI/AAAAAAAAbMk/xS69l2I86F4/s1600/psychopass_logo1.png)</div>
+[![](https://4.bp.blogspot.com/-E35f7BlOtVs/UNSIEv3PoQI/AAAAAAAAbMk/xS69l2I86F4/s640/psychopass_logo1.png)](https://4.bp.blogspot.com/-E35f7BlOtVs/UNSIEv3PoQI/AAAAAAAAbMk/xS69l2I86F4/s1600/psychopass_logo1.png)
 
-<a name="more"></a>——Sibylla System——
+——Sibylla System——
 在故事的時代，有着一個名爲「Sibylla System」的系統。它會將人的心靈數值化，而有關犯罪的指數則叫做「犯罪指數」，即使沒有犯罪，但若超出某數值也會被制裁。在那時代，人們不斷地追求着被Sibylla System支配着的幸福。——「一切都為了能夠人盡其才。這正是這個Sibylla給人類帶來的恩寵」。
 這是一個，壓抑思維，將一切交給Sibylla去「分配」的社會。在這點上，頗有着《美麗新世界》的氣息。《美麗新世界》是一個依靠生物科技，在出生時候已經固定了人未來路向、社會地位以及體質。而Sibylla則超然於整個社會之上，依靠系統的運算計算出人們「適合」的工作及未來路向，滲透着整個社會的一切空隙。
 ……詞雖異而曲同。
