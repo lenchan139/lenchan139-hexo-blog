@@ -2,6 +2,12 @@
 title: Psycho-Pass(11)中結——鋼鐵般的支配者
 tags:
   - ACGN雜談
+  - Psycho-Pass
+  - 烏托邦
+  - Sibylla
+  - 末世
+  - 美麗新世界
+  - 機械降神
 categories:
   - ACGN相關
   - ACGN雜談
