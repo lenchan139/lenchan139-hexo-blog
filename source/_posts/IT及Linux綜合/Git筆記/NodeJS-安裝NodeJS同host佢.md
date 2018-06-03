@@ -1,9 +1,16 @@
 ---
 title: '[NodeJS]安裝NodeJS同host佢'
 tags:
-  - GitHub筆記
+  - GitHub
   - Linux Server
   - MacOS
+  - NodeJS
+  - telegram
+  - bot
+  - telegram bot
+  - Linux
+  - wget
+  - curl
 categories:
   - IT及Linux綜合
   - Git筆記
@@ -14,7 +21,7 @@ date: 2017-11-04 00:29:52
 
 首先喺安裝，Linux系列請：
 
-<div class="code-embed-wrapper"> 
+<div class="code-embed-wrapper">
 
     curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.6/install.sh | bash`</pre> <div class="code-embed-infos"> </div> </div>
 

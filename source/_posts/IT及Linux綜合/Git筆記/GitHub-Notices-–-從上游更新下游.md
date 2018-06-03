@@ -1,7 +1,11 @@
 ---
 title: GitHub Notices – 從上游更新下游
 tags:
-  - GitHub筆記
+  - GitHub
+  - Git
+  - Note
+  - repo
+  - clone
 categories:
   - IT及Linux綜合
   - Git筆記
