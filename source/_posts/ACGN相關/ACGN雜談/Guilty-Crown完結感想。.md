@@ -1,8 +1,10 @@
 ---
 title: Guilty Crown完結感想。
 tags:
-  - ACGN雜談
+  - ACGN
   - Guilty Crown
+  - 動畫
+  - アニメ
   - 無奈文
   - 純圖片
 categories:

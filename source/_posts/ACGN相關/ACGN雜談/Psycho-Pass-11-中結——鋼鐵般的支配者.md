@@ -1,7 +1,9 @@
 ---
 title: Psycho-Pass(11)中結——鋼鐵般的支配者
 tags:
-  - ACGN雜談
+  - ACGN
+  - 動畫
+  - アニメ
   - Psycho-Pass
   - 烏托邦
   - Sibylla

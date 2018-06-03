@@ -1,8 +1,10 @@
 ---
 title: Fate——正義的命運。
 tags:
-  - ACGN雜談
+  - ACGN
   - Fate/Stay Night
+  - 動畫
+  - アニメ
   - 中二
 categories:
   - ACGN相關
