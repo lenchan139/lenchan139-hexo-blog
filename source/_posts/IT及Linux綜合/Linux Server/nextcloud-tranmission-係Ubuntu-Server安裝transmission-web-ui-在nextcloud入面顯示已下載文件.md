@@ -25,7 +25,7 @@ RT
 
 > apt-get install transmission-cli transmission-common transmission-daemon
 
-	首先把apache user加入group
+	首先把apache user加入group
 
 > usermod -a -G debian-transmission www-data
 
