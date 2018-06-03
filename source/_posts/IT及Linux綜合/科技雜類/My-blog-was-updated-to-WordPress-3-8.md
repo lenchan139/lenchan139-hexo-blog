@@ -5,7 +5,7 @@ tags:
   - WordPress
 categories:
   - IT及Linux綜合
-  - Linux Server
+  - 科技雜類
 date: 2013-12-18 23:35:56
 ---
 

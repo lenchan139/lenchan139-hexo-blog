@@ -5,7 +5,7 @@ tags:
   - Firebox
 categories:
   - IT及Linux綜合
-  - Manjaro／x86 Linux
+  - 科技雜類
 date: 2014-05-01 23:02:02
 ---
 

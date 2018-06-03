@@ -9,7 +9,7 @@ tags:
   - Xperia Z1 Compact
 categories:
   - IT及Linux綜合
-  - Android
+  - 科技雜類
 date: 2018-01-23 23:11:42
 ---
 
