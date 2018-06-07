@@ -36,19 +36,71 @@ A7.人大了，方知天有幾高。停下了，方知走了彎路。時日太�
 
 *Q8.有無鍾意嘅動畫、劇集、或者角色可以講下？*
 
-A8.私は神だ、私の夢は、不滅ダダダぁぁぁぁぁぁぁ！
+A8.私は神だ、私の夢は、不滅ダダダぁぁぁぁぁぁぁ！(翻譯：下面會講)
 
-*Q9.
+*Q9.除此以外，仲有無咩興趣*
+
+A9.買下玩具仔玩下砌下咁囉。
+
+*Q10.啫係……高達？*
+
+A10.乜我似咁高深咩？我份人好膚淺，有女有高潮。
+![](/img/aboutme/stuid-me-fag-steam-gun.jpg)
+
+*Q11.死毒撚！膚淺！嘔心！*
+
+A11.多謝〜
+
+*Q12.有無話打開咩機呢？*
+
+A12.有架都，屋企都有部PS4，周不時都會打下機……例如有女有高潮嘅PSO2.
+![](/img/aboutme/pso2-girl-screenshot.jpg)
+
+*Q13.………………屌。*
+
+A13.喵。
+
+*Q14.諗住你會話研究下咩新科技/工具/程式之類。*
+
+A14.會有嘅，會有嘅，間中會有嘅。只要心情好，咩都有可能。
+
+*Q15.呢個Blog係用咩架設架咁？*
+
+A15.使用[Hexo](https://hexo.io/)架設，並使用基於[spectre](https://github.com/neofelhz/hexo-theme-spectre)主題修改而嚟嘅[spectreX](https://github.com/lenchan139/hexo-theme-spectreX)。
+
+*Q16.最愛嘅CLI文字編輯器？*
+
+A16.nano
+
+*Q17.最愛嘅GUI文字編輯器？*
+
+A17.冇乜，基本上睇需求係咩，單個文件咪KDE嘅Kate。Project Base例如Node.JS就用Atom，Android咪……Android Studio囉。
+
+*Q18.日本語ができますか。*
+
+A18.いいえ、全然できません。*
+
+*Q19.有無開發緊嘅App可以俾我玩玩啊？*
+
+A19.有，JUST Browser。不過好多Bug，歡迎嚟幫手試bug: [Play Store](https://play.google.com/store/apps/details?id=org.lenchan139.justbrowser) | [GitHub](https://github.com/lenchan139/JUSTBrowser.git)
+
+*Q20.聽聞呢度會有女裝相。*
+
+A20.女仔著女裝有咩好睇……
+
+*Q21.啦……………………*
+
+A21.……………………屌！
 
 -
 
 **關於ACGN：**
 
-在小五時候，偶然之下接觸到日本動畫。當時的新番是Shana和涼宮春日，年少且無聊的我就姑且看了起來。看罷，就找了不同的動畫起來看，然後慢慢連同漫畫、小說和遊戲都有涉獵。就我而言，我比較有印象的有[Fate/Stay Night](https://zh.wikipedia.org/wiki/Fate/stay_night)、[C](https://zh.wikipedia.org/wiki/C_%28%E5%8B%95%E7%95%AB%29)、[只有神知道的世界（神のみぞ知るセカイ）](https://zh.wikipedia.org/wiki/%E5%8F%AA%E6%9C%89%E7%A5%9E%E7%9F%A5%E9%81%93%E7%9A%84%E4%B8%96%E7%95%8C)、[肯普法（けんぷファー）](https://zh.wikipedia.org/wiki/%E8%82%AF%E6%99%AE%E6%B3%95)、[魔法禁書目錄（とある魔術の禁書目録）](https://zh.wikipedia.org/wiki/%E9%AD%94%E6%B3%95%E7%A6%81%E6%9B%B8%E7%9B%AE%E9%8C%84)、[Clannad](https://zh.wikipedia.org/wiki/Clannad)、[圖書館戰爭（図書館戦争）](https://zh.wikipedia.org/wiki/%E5%9C%96%E6%9B%B8%E9%A4%A8%E6%88%B0%E7%88%AD)、[空之境界（空の境界）](https://zh.wikipedia.org/wiki/%E7%A9%BA%E4%B9%8B%E5%A2%83%E7%95%8C)、[境界的彼方（境界の彼方）](https://zh.wikipedia.org/wiki/%E5%A2%83%E7%95%8C%E7%9A%84%E5%BD%BC%E6%96%B9)。
+由細到大，我份人都比較孤僻，所以基本上大半嘅時間都係同部電腦度過。而最初係小學五年班嘅時候，係無聊網絡遊蕩時，偶然之下接觸到日本動畫。當時嘅新番是Shana和涼宮春日，百無聊賴咪整咗嚟睇。看罷，又搵咗唔同類別、體裁嘅動畫睇，然後慢慢連同漫畫、小說和遊戲都有涉獵。就我而言，我個人比較喜愛嘅作品有：[Fate/Stay Night](https://zh.wikipedia.org/wiki/Fate/stay_night)、[C](https://zh.wikipedia.org/wiki/C_%28%E5%8B%95%E7%95%AB%29)、[只有神知道的世界（神のみぞ知るセカイ）](https://zh.wikipedia.org/wiki/%E5%8F%AA%E6%9C%89%E7%A5%9E%E7%9F%A5%E9%81%93%E7%9A%84%E4%B8%96%E7%95%8C)、[肯普法（けんぷファー）](https://zh.wikipedia.org/wiki/%E8%82%AF%E6%99%AE%E6%B3%95)、[魔法禁書目錄（とある魔術の禁書目録）](https://zh.wikipedia.org/wiki/%E9%AD%94%E6%B3%95%E7%A6%81%E6%9B%B8%E7%9B%AE%E9%8C%84)、[Clannad](https://zh.wikipedia.org/wiki/Clannad)、[圖書館戰爭（図書館戦争）](https://zh.wikipedia.org/wiki/%E5%9C%96%E6%9B%B8%E9%A4%A8%E6%88%B0%E7%88%AD)、[空之境界（空の境界）](https://zh.wikipedia.org/wiki/%E7%A9%BA%E4%B9%8B%E5%A2%83%E7%95%8C)、[境界的彼方（境界の彼方）](https://zh.wikipedia.org/wiki/%E5%A2%83%E7%95%8C%E7%9A%84%E5%BD%BC%E6%96%B9)。
 
-而當中F/SN（Fate/Stay Night）特別頂讚！F/SN原作乃文字冒險遊戲，分作三線（原本有四線的不過……），Fate線講的是聖盃戰爭的表層；UBW講的是士郎的理想和正義的矛盾，特別是Archer和士郎對砍的一節，兩人之間的對話特別精彩（不劇透不劇透……）；HF線是整個聖盃戰爭的黑暗，而士郎在這線到後面終於拜託了道德高地，當了個「普通人」——「我要當，櫻的正義使者」。我之前就Fate系列有個感想，[點此觀看](http://lenchan139.org/?p=38)。
+而當中Fate系列係我一直都十分熱愛嘅系列作品。F/SN原作乃文字冒險遊戲，分作三線（原本有四線的不過……），Fate線講嘅係聖盃戰爭表層；UBW講嘅係主角士郎嘅理想和正義，特別是Archer同士郎對劈嘅一節，兩人之間嘅對話特別精彩（不劇透不劇透……）；HF線是整個聖盃戰爭的黑暗。若有興趣，請用自己嘅方式購買正版。而且我之前就Fate系列有個感想，[Fate——正義的命運。](https://blog.tto.moe/p/ACGN相關/ACGN雜談/Fate——正義的命運。/)。
 
-另外，[空之軌跡系列（英雄傳說六：空之軌跡/英雄伝説VI 空の軌跡）](https://zh.wikipedia.org/wiki/%E7%A9%BA%E4%B9%8B%E8%BB%8C%E8%B7%A1)當中的殲滅天使蕾恩的劇情也不錯，也拜此所賜，我徹底迷上了蕾恩大人哦哦哦！！！爲避免劇透，我不作任何評論，你可以點擊下面的YouTube影片觀看。
+另外，[空之軌跡系列（英雄傳說六：空之軌跡/英雄伝説VI 空の軌跡）](https://zh.wikipedia.org/wiki/%E7%A9%BA%E4%B9%8B%E8%BB%8C%E8%B7%A1)當中嘅殲滅天使蕾恩十分可愛我敬愛嘅蕾恩大人哦哦哦！！！
 
 （可惜的是後作[閃之軌跡II](https://zh.wikipedia.org/zh-hk/%E8%8B%B1%E9%9B%84%E5%82%B3%E8%AA%AA_%E9%96%83%E4%B9%8B%E8%BB%8C%E8%B7%A1)是個糞作sosad。）
 
@@ -56,24 +108,19 @@ A8.私は神だ、私の夢は、不滅ダダダぁぁぁぁぁぁぁ！
 
 **關於開源：**
 
-大概在二年半前（2011年秋初），我在偶然之間（爲什麼又是偶然其實我是忘記如何接觸到的了……無聊的孩子總是……）接觸到[Linux](https://zh.wikipedia.org/wiki/Linux)，從此就開啓了禁忌的大門（笑）。
+大概係2011年秋初，偶然之間（點解又是偶然其實……無聊小朋友嘛……）接觸到[Linux](https://zh.wikipedia.org/wiki/Linux)，從此就開啓了禁忌嘅大門（絶望よ、来たれ）。
 
-記得第一個玩的發行版是[Ubuntu](http://www.ubuntu.com/)，當時是1110版本，已經採用了Unity作爲預設環境。不過令人可惜的是當時BUG和各種細節爛得爛大街，因此輾轉前後嘗試過[Gnome](http://www.gnome.org/)、[KDE](http://kde.org/)、[LXDE](http://lxde.org)、[XFCE](http://xfce.org)一堆DE，不過很可惜當時挑剔的我統統無法忍受，所以不斷調教以及切換不同的發行版。例如預載了[Cinnamon](http://cinnamon.linuxmint.com/)的發行版[Linux Mint](http://linuxmint.com/)、基於Gnome3並有類似於Windows界面的[Linux Deepin](http://www.linuxdeepin.com/index.en.html)、圖書館滿是他的教學書的[Fedora](https://fedoraproject.org/)等等，也因此慢慢懂得一些關於Linux Desktop範疇的基礎知識……例如習慣了用CLI的包管理器。
+記得第一個玩的發行版自然係知名度最高嘅distro[Ubuntu](http://www.ubuntu.com/)，當時係1110版本，已經採用了Unity作爲預設環境（Shinity）。不過令人可惜嘅係，當時BUG同各種細節爛得黐線，因此輾轉前後嘗試過[Gnome](http://www.gnome.org/)、[KDE](http://kde.org/)、[LXDE](http://lxde.org)、[XFCE](http://xfce.org)一堆DE，不過很可惜當時挑剔的我統統無法忍受，所以不斷調教以及切換不同的發行版。例如預載咗[Cinnamon](http://cinnamon.linuxmint.com/)嘅發行版[Linux Mint](http://linuxmint.com/)、基於Gnome3並有類似於Windows界面嘅[Linux Deepin](http://www.linuxdeepin.com/index.en.html)、圖書館盡是佢嘅教學書嘅[Fedora](https://fedoraproject.org/)等等，也因此慢慢懂得啲關於Linux 嘅知識和癖好……例如習慣了用CLI的包管理器。
 
-及後Ubuntu1204、1210就慢慢地修復了各種詭異的BUG以及細節的完善之後，終於可以用了（？）。於是我就開開心心地用到了……1304。1304版本當中那個iBus的新Control Panel簡直又讓我不能忍，於是跑去了用[Chakra Linux](http://chakra-project.org/)直到現在。
+及後Ubuntu1204、1210就慢慢咁修復咗各種詭異嘅BUG以及細節的完善之後，終於可以用啦（？）。於是我就開開心心地用到……1304。1304版本當中嗰個iBus嘅新Control Panel簡直又讓我不能忍，於又跑去咗用[Chakra Linux](http://chakra-project.org/)。
 
-曾經使用[Chakra Linux](http://chakra-project.org/)，以及[OpenSUSE](https://www.opensuse.org/)，至於現在是[Manjaro](https://manjaro.org/),轉換的原因主要是穩定性問題。唯一使用的DE是[KDE](http://kde.org/)，使用的輸入法是由[CS Slayer](https://www.csslayer.info/wordpress/)大大菊苣開發的[Fcitx](https://fcitx-im.org/wiki/Fcitx)，瀏覽器是[Mozilla](http://mozilla.com)開發的[Firefox](http://mozilla.com/firefox/)。  
-順便打個廣告，目前我使用的Twitter客戶端是由[@mariotaku](https://twitter.com/mariotaku)菊苣開發的[Twidere](https://github.com/mariotaku/twidere)。多補一句：[Twittter的API1.1的連接次數的限制必須死](http://www.webleon.org/2008/01/twitterapi.html)！
+係[Chakra Linux](http://chakra-project.org/)之後，又試過用[OpenSUSE](https://www.opensuse.org/)。至於而家用緊嘅distro係[Manjaro](https://manjaro.org/),轉換的原因主要係穩定同習慣掛。唯一使用嘅DE嘅[KDE](http://kde.org/)，使用嘅輸入法係由[CS Slayer](https://www.csslayer.info/wordpress/)大神開發嘅[Fcitx](https://fcitx-im.org/wiki/Fcitx)，瀏覽器係[Vivaldi](http://mozilla.com)開發的[Firefox](https://vivaldi.com/)。  
 
 -
 
 **關於社會與政治：**
 
-隨着新高中推行通識（雖然通識課程略有問題……嗯……），我也在似懂非懂之下開始接觸了時事與政治起來。不懂猶可，慢慢懂了以後會發覺寰球時事，有喜有悲，有辛與不幸。記得印象深刻且使人扼腕的是紅色高棉政權，簡直是獨裁的極致（笑），北韓什麼的都弱爆了——的感覺（[MORE？](https://zh.wikipedia.org/zh-tw/%E7%B4%85%E8%89%B2%E9%AB%98%E6%A3%89)）。在香港方面，我在2012年參與了首次的遊行，乃是七一遊行也。其後還有反國教遊行等。感想的就不羅列了……反正我去主要是當個超業餘攝影師而已。不過也在當中拍得不少有趣或是讓人深思的標語，例如某年的「留守香港」等等。
-
-政黨傾向方面，我乃堅定的DAB和民主黨的堅定反對者，以恥笑他們爲己任。不喜歡DAB乃因其親共所致。不喜歡民主黨則乃因和平理性非暴力非粗口而又一事無成，而某些「元老」竟仍佔據高位。曾經堅定支持的政黨乃社民連，因曾幾何時起碼長毛仍值得尊敬。現在……我不如J下[羊子](https://www.facebook.com/sora.neverforget8964.org?fref=ts)，做個港豬算喇算啦。
-
-我亦寫了少量社評雜記，例如《[\[政治鳩噏\]反歧視，最緊要公平！](http://lenchan139.org/?p=412)》、《[2014-01-01 記某個香港人的元旦遊行](http://lenchan139.org/?p=147)》、《[\[文短\]\[標題也短\]愛國](http://lenchan139.org/?p=35)》、《[「善」](http://lenchan139.org/post_id=542)》之類的文章，你可以[點此](http://lenchan139.org/?cat=6)觀看所有社評雜記。
+唔好講呢啲啦，今晚食咩好啊？
 
 -
 
