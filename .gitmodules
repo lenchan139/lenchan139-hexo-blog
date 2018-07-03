@@ -1,0 +1,3 @@
+[submodule "themes/spectreX"]
+	path = themes/spectreX
+	url = ../hexo-theme-spectreX-private
