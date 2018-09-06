@@ -125,8 +125,8 @@ lightgallery:
     # js: #js source url
     # sorry that I can not find any cdn hosting following plugins,
     # please self-host the plugin js and add url here
-    # plugins:
-        # lg-thumbnail:
+     plugins:
+         lg-thumbnail: https://cdn.jsdelivr.net/npm/lg-thumbnail@1.1.0/dist/lg-thumbnail.min.js
         # lg-zoom:
         # lg-autoplay:
         # lg-fullscreen:
