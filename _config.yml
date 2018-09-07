@@ -85,9 +85,9 @@ deploy:
 
 ## lazyload
 lazyload:
-  enable: true
+  enable: false
   onlypost: false
-  loadingImg: # eg /images/loading.gif  
+  loadingImg: # eg /images/loading.gif
 #live2d
 live2d:
   enable: true
