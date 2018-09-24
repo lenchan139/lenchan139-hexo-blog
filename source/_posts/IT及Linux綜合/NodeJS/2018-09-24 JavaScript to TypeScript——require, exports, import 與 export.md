@@ -129,6 +129,18 @@ export let Foo = "foo"
 import Foo from (__dirname + './foo')
 ```
 
+### import require module
+如果你寫咗，或者有node_moduels 唔support import，你可以寫個wrapper.js
+```js
+export let Foo = require('foo')
+```
+
+之後import：
+```js
+import let Foo from ('foo')
+```
+
+
 完！
 
 Ref:
