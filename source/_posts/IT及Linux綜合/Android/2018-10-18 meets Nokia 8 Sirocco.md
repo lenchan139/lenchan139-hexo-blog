@@ -1,13 +1,21 @@
 ---
-title: 2018-10-18 meets Nokia 8 Sirocco
+title: Meets Nokia 8 Sirocco
 tags:
-  - untagged
+  - Nokia
+  - Nokia 8 Sirocco
+  - Android One
+  - Android Oreo
+  - Android Pie
+  - Zeiss
+  - AOSP
+  - Android
+  - Android手機
 categories:
   - IT及Linux綜合
   - Android
 thumbnail: /img/2018-10-24 FIrst Meet Nokia 8 Sirocco/DSC00458.JPG
 thumbnailStyles:
-  - 'background-position: 0% 80%'
+  - 'background-position: 0% 43.4%'
 date: 2018-10-18 17:24:59
 ---
 ![](/img/2018-10-24 FIrst Meet Nokia 8 Sirocco/DSC00453.JPG)
