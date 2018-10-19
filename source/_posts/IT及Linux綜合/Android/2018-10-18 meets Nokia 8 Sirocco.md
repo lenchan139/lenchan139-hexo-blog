@@ -62,3 +62,7 @@ Meets Nokia 8 Sirocco
 ![](source/img/2018-10-24 FIrst Meet Nokia 8 Sirocco/photo_2018-10-18_17-36-40.jpg)
 而該機最大好處就係Android One。無多餘嘅垃圾Apps（除咗Gappsssss），後臺少好多嘢，亦多出好多空間去裝自己嘢，令系統簡單唔少。不過亦因此少咗啲嘢，例如NFC 切換 on notification bar、power menu screenshot之類嘅function，不過亦有方法去取代/撳多幾個掣，又唔算咩大問題。
 相對地，Android One係除咗Pixel/新機之外最先食到新版Android嘅機種，而且保證有2年嘅系統更新，對於錢銀唔多/唔想密密換機嘅人（例如我），係個唔錯嘅折衷選擇吧。
+
+# Ref
+至於想睇部機影出嚟嘅請點下面連結：
+![更多低清機身攝影及Nokia 8 Sirocco影嘅相片](https://lenchan139.smugmug.com/2018-10-24-Meet-Nokia-8-Sirocco)
