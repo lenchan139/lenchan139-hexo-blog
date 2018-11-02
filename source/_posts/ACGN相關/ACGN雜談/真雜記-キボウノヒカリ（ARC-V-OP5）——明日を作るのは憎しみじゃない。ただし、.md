@@ -7,7 +7,7 @@ tags:
   - ARC-V
 categories:
   - ACGN相關
-  - ACGN感想
+  - ACGN雜談
 date: 2016-04-14 00:17:21
 ---
 
