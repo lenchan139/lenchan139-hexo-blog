@@ -15,8 +15,10 @@ tags:
 categories:
   - IT及Linux綜合
   - NodeJS
+thumbnail: >-
+  /img/2018-11-02 stripe-webtask-on-static-site/Screenshot 2018-11-05 at
+  11.24.23.png
 date: 2018-11-02 16:01:12
-thumbnail: /img/2018-11-02 stripe-webtask-on-static-site/Screenshot 2018-11-05 at 11.24.23.png
 ---
 近日孤單寂寞冷，想係自己嘅blog放個位方便經Stripe收錢。不過因爲係用hexo gen嘅靜態網頁，而Stripe要求一定要用server去做charge先真正過到數……雖然可以直接係javascript到過……但係應該，唔會有人愚蠢到會咁做吧（會暴露secrect key）？但就咁爲咗一個function而開一個NodeJS Project又有少少秦……。之後經過一番搜尋之後發現WebTask.io呢個服務十分好，可以以NodeJS 寫 micro webservice，官方嘅講法係FaaS(Function as a Service)……啫係你只需要寫一個function，唔需要做太多conf都可以做到。
 
