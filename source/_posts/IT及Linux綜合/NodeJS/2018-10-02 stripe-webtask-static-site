@@ -2,13 +2,21 @@
 title: '[WebTask.io x Stripe]係靜態網站上建立Stripe 收款頁面。'
 id: 1541145672
 tags:
-  - untagged
+  - stripe
+  - webtask.io
+  - static site
+  - webservice
+  - payments gateway
+  - hexo
+  - javascript
+  - FaaS
+  - NodeJS
+  - We7Pay
 categories:
   - IT及Linux綜合
   - NodeJS
-keywords: 'keyword1,keyword2'
-description: description
 date: 2018-11-02 16:01:12
+thumbnail: /img/2018-11-02 stripe-webtask-on-static-site/Screenshot 2018-11-05 at 11.24.23.png
 ---
 近日孤單寂寞冷，想係自己嘅blog放個位方便經Stripe收錢。不過因爲係用hexo gen嘅靜態網頁，而Stripe要求一定要用server去做charge先真正過到數……雖然可以直接係javascript到過……但係應該，唔會有人愚蠢到會咁做吧（會暴露secrect key）？但就咁爲咗一個function而開一個NodeJS Project又有少少秦……。之後經過一番搜尋之後發現WebTask.io呢個服務十分好，可以以NodeJS 寫 micro webservice，官方嘅講法係FaaS(Function as a Service)……啫係你只需要寫一個function，唔需要做太多conf都可以做到。
 
@@ -94,9 +102,73 @@ document.addEventListener("DOMContentLoaded", function(event) {
 首先我哋可以暫時無視該頁面先，首先於webtask.io寫好實際處理付款所需嘅Webservice。
 
 ### Charge In webtask.io
+撳咗掣之後其實未到數。由於stripe需要用secrect key去係server-side行charge去正式收錢先會到數，直接寫個NodeJS App大得濟，所以我哋可以用 webtask.io 寫單版 webservice 而唔需要理咁多conf之類嘅事。
+首先打開panel之後開新task：
+![pic](/img/2018-11-02 stripe-webtask-on-static-site/Screenshot 2018-11-05 at 10.31.44.png)
 
+之後按下齒輪，埋下Stripe 嘅secret key：
+![pic](/img/2018-11-02 stripe-webtask-on-static-site/Screenshot 2018-11-05 at 10.32.03.png)
+![pic](/img/2018-11-02 stripe-webtask-on-static-site/Screenshot 2018-11-05 at 10.32.12.png)
+![pic](/img/2018-11-02 stripe-webtask-on-static-site/Screenshot 2018-11-05 at 10.32.17.png)
 
+之後開好嘅正文應該如此：
+```javascript
+/**
+* @param context {WebtaskContext}
+*/
+module.exports = function(context, cb) {
+  cb(null, { hello: context.query.name || 'Anonymous' });
+};
+```
+之後import stripe，並拎好各paramaters：
+```javascript
+const stripe = require('stripe')
+module.exports = function(context, cb) {
+  let secretKey = context.secrets.stripe_secret_key
+  let amount = parseFloat(context.body.price)
+  let price = amount.toFixed(2).toString().replace(".","")
+  let token = context.body.token
+  let email = context.body.email
+}
+```
+之後開始創建stripe嘅charge option：
+```javascript
+let chargeOptions = {
+  amount: price,
+  description: "TTO.MOE ONLINE PAYMENTS",
+  currency: "hkd",
+  receipt_email: email,
+  source: token
+}
+```
 
+開始charge：
+```javascript
+stripe(secretKey)
+  .charges
+  .create(chargeOptions)
+  .then(charge=>{
+
+  }, error=> {
+
+  })
+```
+
+之後檢查返是否成功，是就回覆成功：
+```javascript
+stripe(secretKey)
+  .charges
+  .create(chargeOptions)
+  .then(charge =>{
+    if(charge.status === 'succeeded'){
+      cb(null, {success:1, stripe:charge})
+    }
+  }, error => {
+    cb(null,{success:0,inPara:context.body, error:err})
+  })
+```
+### call webtask.io
+之後就係最後一步，係個static web入面call返個webservice做嘢。
 使用javascript內置嘅功能自動重新處理好參數們供xmlHttpRequest使用：
 ```javascript
 var url = new URL(window.location.href);
@@ -104,4 +176,52 @@ var price = url.searchParams.get("price");
 var token = url.searchParams.get("stripeToken")
 var type = url.searchParams.get("stripeTokenType")
 var email = url.searchParams.get("stripeEmail")
+var params = url.searchParams.toString()
 ```
+
+仲有記得埋好webtask.io嘅url：
+```javascript
+var reqUrl = "https://id.sandbox.auth0-extend.com/tto-moe-stripe-checker"
+```
+
+之後開個function call返webtask.io嘅function：
+```javascript
+function dlOnAsyncTask(){
+  var xmlhttp = new XMLHttpRequest();
+  xmlhttp.onreadystatechange = function() {
+      if (this.readyState == 4 && this.status == 200) {
+          var json = JSON.parse(this.responseText);
+          console.log(json)
+          if(json && json.success){
+            alert("付費成功！即將返回首頁！")
+            window.location.href = ("/")
+          }else{
+            alert("付費失敗！請稍後重試！")
+            window.location.href = ("/payments/stripe/")
+          }
+      }else{
+        alert("內部錯誤！請稍後重試！")
+        window.location.href = ("/payments/stripe/")
+      }
+  };
+  xmlhttp.open("POST", reqUrl, true);
+  xmlhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+  xmlhttp.send(params);
+}
+```
+請注意，你當然可以唔檢查個返回狀態出信息，不過如果出失敗嘅話可以期待client會操作多一次，其實未嘗唔係件好事。此外，要用post方式call記得setRequestHeader，唔係對面會認唔到而會error。此外params要用`URL.searchParams.toString()`
+去convert返。
+最後係onload度等佢完全load完先行個function就……完成啦！：
+```javascript
+document.addEventListener("DOMContentLoaded", function(event) {
+    console.log("DOM fully loaded and parsed");
+    dlOnAsyncTask()
+  });
+```
+
+大家鍾意嘅話可以嚟捐獻俾我架：
+[https://blog.tto.moe/payments/stripe/](https://blog.tto.moe/payments/stripe/)
+
+# REF:
+- [WebTask.io Documents](https://webtask.io/docs/101)
+- [Stripe Documents](https://stripe.com/docs)

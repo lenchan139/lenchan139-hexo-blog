@@ -8,6 +8,7 @@ _已歸檔嘅舊版本_
 _*「追求自由乃因恐懼。」*_
 
 -
+# Q&A
 **Q1.請簡單介紹下自己。**
 
 A1.大家好，我係Len Chan，性別雪娘，又被稱作雪娘也。
@@ -94,7 +95,7 @@ A21.……………………屌！
 
 -
 
-**關於ACGN：**
+# ACGN
 
 由細到大，我份人都比較孤僻，所以基本上大半嘅時間都係同部電腦度過。而最初係小學五年班嘅時候，係無聊網絡遊蕩時，偶然之下接觸到日本動畫。當時嘅新番是Shana和涼宮春日，百無聊賴咪整咗嚟睇。看罷，又搵咗唔同類別、體裁嘅動畫睇，然後慢慢連同漫畫、小說和遊戲都有涉獵。就我而言，我個人比較喜愛嘅作品有：[Fate/Stay Night](https://zh.wikipedia.org/wiki/Fate/stay_night)、[C](https://zh.wikipedia.org/wiki/C_%28%E5%8B%95%E7%95%AB%29)、[只有神知道的世界（神のみぞ知るセカイ）](https://zh.wikipedia.org/wiki/%E5%8F%AA%E6%9C%89%E7%A5%9E%E7%9F%A5%E9%81%93%E7%9A%84%E4%B8%96%E7%95%8C)、[肯普法（けんぷファー）](https://zh.wikipedia.org/wiki/%E8%82%AF%E6%99%AE%E6%B3%95)、[魔法禁書目錄（とある魔術の禁書目録）](https://zh.wikipedia.org/wiki/%E9%AD%94%E6%B3%95%E7%A6%81%E6%9B%B8%E7%9B%AE%E9%8C%84)、[Clannad](https://zh.wikipedia.org/wiki/Clannad)、[圖書館戰爭（図書館戦争）](https://zh.wikipedia.org/wiki/%E5%9C%96%E6%9B%B8%E9%A4%A8%E6%88%B0%E7%88%AD)、[空之境界（空の境界）](https://zh.wikipedia.org/wiki/%E7%A9%BA%E4%B9%8B%E5%A2%83%E7%95%8C)、[境界的彼方（境界の彼方）](https://zh.wikipedia.org/wiki/%E5%A2%83%E7%95%8C%E7%9A%84%E5%BD%BC%E6%96%B9)。
 
@@ -106,7 +107,7 @@ A21.……………………屌！
 
 -
 
-**關於開源：**
+# Open-Source
 
 大概係2011年秋初，偶然之間（點解又是偶然其實……無聊小朋友嘛……）接觸到[Linux](https://zh.wikipedia.org/wiki/Linux)，從此就開啓了禁忌嘅大門（絶望よ、来たれ）。
 
@@ -118,13 +119,13 @@ A21.……………………屌！
 
 -
 
-**關於社會與政治：**
+# 社政
 
 唔好講呢啲啦，今晚食咩好啊？
 
 -
 
-**其他地方的我：**
+# 其他地方嘅我
 [Mastodon](https://pawoo.net/@lenchan139)
 
 [Twitter](https://twitter.com/lenchan139)
@@ -132,8 +133,12 @@ A21.……………………屌！
 [Steam](http://steamcommunity.com/id/lenchan139)
 
 
-**聯絡方法：**
+# 聯絡方法
 
 Email：[mail@lenchan139.org](mailto:mail@lenchan139.org)
 
 Telegram：[@lenchan139](https://telegram.me/lenchan139)
+
+# 奉獻 To Me
+如果你覺得呢度嘅任何嘢實用，而又想酬謝一下我飲杯酒水，你可以經Stripe用信用卡奉獻/捐贈：
+[雖然唔是十一奉獻但你可以點我往捐贈頁面](https://blog.tto.moe/payments/stripe/)
