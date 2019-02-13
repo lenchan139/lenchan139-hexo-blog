@@ -40,8 +40,10 @@ relative_link: false
 future: true
 highlightjs:
   enable: true
+  version: 9.14.2
   extraFormat:
     - kotlin
+    - go
     - json
     - javascript
 highlight:

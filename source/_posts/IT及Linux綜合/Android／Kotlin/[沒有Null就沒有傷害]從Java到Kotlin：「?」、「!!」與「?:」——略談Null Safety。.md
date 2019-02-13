@@ -118,10 +118,12 @@ String isJohn = user.getUserProfile()?
 
 # Null safety @ Kotlin
 ## 咁Kotlin嘅話，我要將null放入non-null，會點？
-會過唔到Compiler，慳返嘅係時間同電費。咁如果你真係要null 落 non-null，其實Kotlin會有三種玩法：
+會過唔到Compiler，慳返嘅係時間同電費。咁如果你真係要null 落 non-null，其實Kotlin會有兩大類，總共三種玩法：
+##### such Java
+  1. Not-null Assertion Operator(!!)
+##### Safe Navigation
  1. Safe Call Operator(?)
- 2. Not-null Assertion Operator(!!)
- 3. Elvis Operator(?:)
+ 2. Elvis Operator(?:)
 首先定義咗個Class係咁先：
 ```kotlin
 // declearation
@@ -164,7 +166,7 @@ if(profile != null){
 ```
 簡單講，就係加上「!!」使其強制變成Non-Null嘅變數。如果cast當時係null嘅話，會類似Java咁彈出Exception，所以要加上if-statement去check null先call會安全啲。
 
-### 銀河最強嘅Elvis Operator（其實Java都有）
+### 銀河最強嘅Elvis Operator（Java都無嘅嘢，Yeah）
 如果你覺得上面兩種都唔得，想自定義default value嘅話，仲可以咁：
 ```kotlin
 var user : User = User(basicAuth)
