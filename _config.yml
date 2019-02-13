@@ -38,7 +38,12 @@ render_drafts: false
 post_asset_folder: false
 relative_link: false
 future: true
-highlightjs: true
+highlightjs:
+  enable: true
+  extraFormat:
+    - kotlin
+    - json
+    - javascript
 highlight:
   enable: false
   line_number: false
