@@ -6,7 +6,7 @@ tags:
   - NTP Server
 categories:
   - IT及Linux綜合
-  - Android
+  - Android／Kotlin
 date: 2014-03-05 19:27:47
 ---
 

@@ -7,7 +7,7 @@ tags:
   - 評測
 categories:
   - IT及Linux綜合
-  - Android
+  - Android／Kotlin
 date: 2016-09-15 19:11:17
 ---
 

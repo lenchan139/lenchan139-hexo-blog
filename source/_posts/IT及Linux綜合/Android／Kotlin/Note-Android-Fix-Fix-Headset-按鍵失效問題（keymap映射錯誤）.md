@@ -7,7 +7,7 @@ tags:
   - 耳機
 categories:
   - IT及Linux綜合
-  - Android
+  - Android／Kotlin
 date: 2013-10-29 16:59:00
 ---
 

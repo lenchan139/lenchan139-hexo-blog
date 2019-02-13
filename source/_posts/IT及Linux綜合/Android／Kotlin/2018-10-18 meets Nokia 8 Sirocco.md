@@ -12,7 +12,7 @@ tags:
   - Android手機
 categories:
   - IT及Linux綜合
-  - Android
+  - Android／Kotlin
 thumbnail: /img/2018-10-24 FIrst Meet Nokia 8 Sirocco/DSC00458.JPG
 thumbnailStyles:
   - 'background-position: 0% 43.4%'
