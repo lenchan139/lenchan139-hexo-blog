@@ -109,10 +109,12 @@ class User(BasicAuth basicAuth){
 }
 // real code
 User user = new User(basicAuth);
-String isJohn = user.getUserProfile()?
-                    .username
-                    .toLowerCase()
-                    .contains("john");
+String name = user.getUserName()
+if(name != null){
+  boolean isJohn = name.toLowerCase()
+                      .contains("john");
+}
+
 ```
 ……唔好啦掛。
 
