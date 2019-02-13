@@ -1,4 +1,5 @@
 ---
+uuid: a26b7822-2fbc-11e9-8b4d-05d549662b79
 title: '[Chakra/Linux]安裝並讓Steam for Linux至少能打英文……'
 tags:
   - Chakra Linux

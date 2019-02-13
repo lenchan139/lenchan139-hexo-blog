@@ -1,4 +1,5 @@
 ---
+uuid: a26b782a-2fbc-11e9-8b4d-05d549662b79
 title: '[Firefox 29][Fcitx]Fix Fcitx 在 Firefox29 下輸入框無法正常地追隨'
 tags:
   - Chakra Linux

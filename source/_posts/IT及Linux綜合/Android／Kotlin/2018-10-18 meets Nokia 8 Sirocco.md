@@ -1,4 +1,5 @@
 ---
+uuid: a26b02f1-2fbc-11e9-8b4d-05d549662b79
 title: Meets Nokia 8 Sirocco
 tags:
   - Nokia

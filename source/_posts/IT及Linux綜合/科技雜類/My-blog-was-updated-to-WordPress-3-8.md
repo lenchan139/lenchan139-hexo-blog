@@ -1,4 +1,5 @@
 ---
+uuid: a26c3b77-2fbc-11e9-8b4d-05d549662b79
 title: 'My blog was updated to WordPress 3.8 :)'
 tags:
   - update

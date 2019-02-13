@@ -1,4 +1,5 @@
 ---
+uuid: a26b5115-2fbc-11e9-8b4d-05d549662b79
 title: '[AsusT303UA]安裝Chakra Linux之後嘅各種設定'
 tags:
   - ASUS T303UA

@@ -1,4 +1,5 @@
 ---
+uuid: a26c1465-2fbc-11e9-8b4d-05d549662b79
 title: '[Ubuntu]爲Chromium添加Chrome中的PDF Reader'
 tags:
   - Linux

@@ -1,4 +1,5 @@
 ---
+uuid: a26b2a08-2fbc-11e9-8b4d-05d549662b79
 title: '[Ubuntu Server]用cron每天自動重啓Mysql！'
 tags:
   - Linux

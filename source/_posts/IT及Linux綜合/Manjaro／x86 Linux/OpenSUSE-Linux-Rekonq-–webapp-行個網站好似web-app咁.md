@@ -1,4 +1,5 @@
 ---
+uuid: a26c1460-2fbc-11e9-8b4d-05d549662b79
 title: '[OpenSUSE/Linux] Rekonq –webapp  行個網站好似web app咁'
 tags:
   - Linux

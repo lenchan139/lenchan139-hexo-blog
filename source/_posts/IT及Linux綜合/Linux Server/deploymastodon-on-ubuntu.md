@@ -1,4 +1,5 @@
 ---
+uuid: 06c02191-2fbd-11e9-89cb-3d3b7bb24e51
 title: 喺Ubuntu Server 16.04上面部署Mastodon!
 tags:
   - Linux Server

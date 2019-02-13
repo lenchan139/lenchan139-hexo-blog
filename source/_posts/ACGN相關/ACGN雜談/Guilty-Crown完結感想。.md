@@ -1,4 +1,5 @@
 ---
+uuid: a26adbe3-2fbc-11e9-8b4d-05d549662b79
 title: Guilty Crown完結感想。
 tags:
   - ACGN

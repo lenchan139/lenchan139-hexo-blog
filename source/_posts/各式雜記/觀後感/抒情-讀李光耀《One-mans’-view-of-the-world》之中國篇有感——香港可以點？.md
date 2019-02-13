@@ -1,4 +1,5 @@
 ---
+uuid: a26c89a0-2fbc-11e9-8b4d-05d549662b79
 title: '[抒情]讀李光耀《One mans’ view of the world》之中國篇有感——香港可以點？'
 tags:
   - 觀後感

@@ -1,4 +1,5 @@
 ---
+uuid: 06c02192-2fbd-11e9-89cb-3d3b7bb24e51
 title: '[WebTask.io x Stripe]係靜態網站上建立Stripe 收款頁面。'
 id: 1541145672
 tags:

@@ -1,4 +1,5 @@
 ---
+uuid: a26b5114-2fbc-11e9-8b4d-05d549662b79
 title: >-
   [Asus T103H] 安裝Kubuntu 以後嘅各種羞恥（？）設定！ || Setting up touchscreen, audio card and
   microsd reader on Asus T103H with Kubuntu

@@ -1,4 +1,5 @@
 ---
+uuid: a26b7823-2fbc-11e9-8b4d-05d549662b79
 title: '[Chakra/Linux]把弄A卡開源驅動 Radeon 的 Power Management'
 tags:
   - Chakra Linux

@@ -1,4 +1,5 @@
 ---
+uuid: a26c3b7b-2fbc-11e9-8b4d-05d549662b79
 title: Windows 8 RC（Release Preview）試用感想。
 tags:
   - Windows

@@ -1,4 +1,5 @@
 ---
+uuid: a26c1461-2fbc-11e9-8b4d-05d549662b79
 title: '[OpenSUSE]安裝Java並調教出Android Studio用。'
 tags:
   - Linux

@@ -1,4 +1,5 @@
 ---
+uuid: a26c6292-2fbc-11e9-8b4d-05d549662b79
 title: 新加坡嘅小販政策同埋人才培訓嘅SkillsFuture計劃
 tags:
   - 新加坡

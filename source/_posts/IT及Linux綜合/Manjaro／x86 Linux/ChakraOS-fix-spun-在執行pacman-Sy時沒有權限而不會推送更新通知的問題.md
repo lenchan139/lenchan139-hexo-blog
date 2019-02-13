@@ -1,4 +1,5 @@
 ---
+uuid: a26b7828-2fbc-11e9-8b4d-05d549662b79
 title: '[ChakraOS]fix spun 在執行pacman -Sy時沒有權限而不會推送更新通知的問題'
 tags:
   - Chakra Linux

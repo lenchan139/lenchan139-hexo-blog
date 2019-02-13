@@ -1,4 +1,5 @@
 ---
+uuid: a26c8992-2fbc-11e9-8b4d-05d549662b79
 title: '[ChakraOS]Fix firefox-kde無法播放 H264 影片問題'
 tags:
   - Chakra Linux

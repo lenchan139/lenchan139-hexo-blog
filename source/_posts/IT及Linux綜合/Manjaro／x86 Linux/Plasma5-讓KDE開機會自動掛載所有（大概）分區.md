@@ -1,4 +1,5 @@
 ---
+uuid: a26c1462-2fbc-11e9-8b4d-05d549662b79
 title: '[Plasma5]讓KDE開機會自動掛載所有（大概）分區'
 tags:
   - Linux

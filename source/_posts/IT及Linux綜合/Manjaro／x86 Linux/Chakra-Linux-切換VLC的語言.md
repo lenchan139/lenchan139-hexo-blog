@@ -1,4 +1,5 @@
 ---
+uuid: a26b5119-2fbc-11e9-8b4d-05d549662b79
 title: '[Chakra/Linux]切換VLC的語言'
 tags:
   - Chakra Linux

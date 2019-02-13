@@ -1,4 +1,5 @@
 ---
+uuid: a26b02f6-2fbc-11e9-8b4d-05d549662b79
 title: GitHub Notices – 從上游更新下游
 tags:
   - GitHub

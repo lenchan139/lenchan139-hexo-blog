@@ -1,4 +1,5 @@
 ---
+uuid: a26b02fa-2fbc-11e9-8b4d-05d549662b79
 title: '[Mac]批量刪除sync-conflict文件'
 tags:
   - MacOS

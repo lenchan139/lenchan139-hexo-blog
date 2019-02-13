@@ -1,4 +1,5 @@
 ---
+uuid: a26b2a05-2fbc-11e9-8b4d-05d549662b79
 title: >-
   [Apache Fix]Fix “Could not reliably determine the servers’ fully qualified
   domain name” Problem

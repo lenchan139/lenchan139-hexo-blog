@@ -1,4 +1,5 @@
 ---
+uuid: a26c6293-2fbc-11e9-8b4d-05d549662b79
 title: '[施暴報告2013] I Don’t need sex,because the government fucks me every second.'
 tags:
   - 時政評論

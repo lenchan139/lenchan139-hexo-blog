@@ -1,4 +1,5 @@
 ---
+uuid: a26c3b73-2fbc-11e9-8b4d-05d549662b79
 title: 4月1日，GOOGLE推出多個新服務。
 tags:
   - 雜類

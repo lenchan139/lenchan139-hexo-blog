@@ -1,4 +1,5 @@
 ---
+uuid: a26b782b-2fbc-11e9-8b4d-05d549662b79
 title: '[KDE]開機時自動啓動KDE程式而不顯示主窗口（startup on tray）'
 tags:
   - Chakra Linux

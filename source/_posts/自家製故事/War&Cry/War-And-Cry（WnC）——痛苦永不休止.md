@@ -1,4 +1,5 @@
 ---
+uuid: a26c899f-2fbc-11e9-8b4d-05d549662b79
 title: War And Cry（WnC）——痛苦永不休止
 tags:
   - War&Cry

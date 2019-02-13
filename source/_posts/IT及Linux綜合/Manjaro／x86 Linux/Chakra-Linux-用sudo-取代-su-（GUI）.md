@@ -1,4 +1,5 @@
 ---
+uuid: a26b7825-2fbc-11e9-8b4d-05d549662b79
 title: '[Chakra/Linux]用sudo 取代 su （GUI）'
 tags:
   - Chakra Linux

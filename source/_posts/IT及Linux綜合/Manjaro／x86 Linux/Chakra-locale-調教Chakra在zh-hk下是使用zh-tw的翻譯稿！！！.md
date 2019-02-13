@@ -1,4 +1,5 @@
 ---
+uuid: a26c629b-2fbc-11e9-8b4d-05d549662b79
 title: '[Chakra][locale]調教Chakra在zh-hk下是使用zh-tw的翻譯稿！！！'
 tags:
   - Chakra Linux

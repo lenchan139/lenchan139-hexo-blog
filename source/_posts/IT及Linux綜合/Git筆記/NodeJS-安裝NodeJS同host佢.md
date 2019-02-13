@@ -1,4 +1,5 @@
 ---
+uuid: a26b02f7-2fbc-11e9-8b4d-05d549662b79
 title: '[NodeJS]安裝NodeJS同host佢'
 tags:
   - GitHub

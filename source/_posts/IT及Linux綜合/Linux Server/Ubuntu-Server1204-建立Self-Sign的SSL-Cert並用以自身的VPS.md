@@ -1,4 +1,5 @@
 ---
+uuid: a26b5110-2fbc-11e9-8b4d-05d549662b79
 title: '[Ubuntu Server1204]建立Self-Sign的SSL Cert並用以自身的VPS'
 tags:
   - Linux Server

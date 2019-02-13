@@ -8,7 +8,7 @@ tags:
   - 教學
   - Null Safety
   - null
-id: no-null-no-hurt
+uuid: no-null-no-hurt
 categories:
   - IT及Linux綜合
   - Android／Kotlin

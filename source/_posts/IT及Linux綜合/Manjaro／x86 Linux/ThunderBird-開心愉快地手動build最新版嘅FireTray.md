@@ -1,4 +1,5 @@
 ---
+uuid: a26c1463-2fbc-11e9-8b4d-05d549662b79
 title: '[ThunderBird]開心愉快地手動build最新版嘅FireTray'
 tags:
   - Linux

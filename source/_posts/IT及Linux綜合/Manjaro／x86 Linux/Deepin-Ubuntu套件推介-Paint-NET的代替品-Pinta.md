@@ -1,4 +1,5 @@
 ---
+uuid: a26b7829-2fbc-11e9-8b4d-05d549662b79
 title: '[Deepin/Ubuntu套件推介] Paint.NET的代替品 Pinta'
 tags:
   - Deepin Linux

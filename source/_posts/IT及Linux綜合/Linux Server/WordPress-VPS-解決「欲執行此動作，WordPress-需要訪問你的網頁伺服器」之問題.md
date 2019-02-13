@@ -1,4 +1,5 @@
 ---
+uuid: a26b5111-2fbc-11e9-8b4d-05d549662b79
 title: '[WordPress/VPS]  解決「欲執行此動作，WordPress 需要訪問你的網頁伺服器」之問題'
 tags:
   - Linux Server

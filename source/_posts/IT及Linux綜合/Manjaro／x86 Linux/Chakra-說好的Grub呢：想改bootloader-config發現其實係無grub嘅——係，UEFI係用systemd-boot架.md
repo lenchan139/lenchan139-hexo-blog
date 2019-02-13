@@ -1,4 +1,5 @@
 ---
+uuid: a26c8990-2fbc-11e9-8b4d-05d549662b79
 title: '[Chakra] 說好的Grub呢：想改bootloader config發現其實係無grub嘅——係，UEFI係用systemd-boot架'
 tags:
   - Chakra Linux

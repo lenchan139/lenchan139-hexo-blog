@@ -1,4 +1,5 @@
 ---
+uuid: a26c3b7a-2fbc-11e9-8b4d-05d549662b79
 title: '[Web Mail Service]開源組成的非牟利電郵服務——Open Mail Box'
 tags:
   - Web Mail

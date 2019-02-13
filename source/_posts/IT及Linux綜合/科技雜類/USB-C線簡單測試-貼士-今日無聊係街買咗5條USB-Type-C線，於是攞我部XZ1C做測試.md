@@ -1,4 +1,5 @@
 ---
+uuid: a26c3b79-2fbc-11e9-8b4d-05d549662b79
 title: '[USB-C線簡單測試+貼士]今日無聊係街買咗5條USB Type-C線，於是攞我部XZ1C做測試'
 tags:
   - Android

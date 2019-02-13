@@ -1,4 +1,5 @@
 ---
+uuid: a26b7826-2fbc-11e9-8b4d-05d549662b79
 title: '[Chakra/Linux]調教VLC在zh-hk下是英文而非中文的錯誤'
 tags:
   - Chakra Linux

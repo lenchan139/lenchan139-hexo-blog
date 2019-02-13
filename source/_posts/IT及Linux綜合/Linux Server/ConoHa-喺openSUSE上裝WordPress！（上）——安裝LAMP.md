@@ -1,4 +1,5 @@
 ---
+uuid: a26b2a06-2fbc-11e9-8b4d-05d549662b79
 title: '[ConoHa] 喺openSUSE上裝WordPress！（上）——安裝LAMP'
 tags:
   - Linux Server

@@ -1,4 +1,5 @@
 ---
+uuid: a26c1466-2fbc-11e9-8b4d-05d549662b79
 title: '[Ubuntu]解決Youtube部分影片無法使用HTML5播放器播放的問題'
 tags:
   - Linux

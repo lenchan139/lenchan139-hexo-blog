@@ -1,4 +1,5 @@
 ---
+uuid: a26adbe4-2fbc-11e9-8b4d-05d549662b79
 title: Psycho-Pass(11)中結——鋼鐵般的支配者
 tags:
   - ACGN

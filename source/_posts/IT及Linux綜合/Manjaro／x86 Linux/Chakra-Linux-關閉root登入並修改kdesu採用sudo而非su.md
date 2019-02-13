@@ -1,4 +1,5 @@
 ---
+uuid: a26b7827-2fbc-11e9-8b4d-05d549662b79
 title: '[Chakra/Linux]關閉root登入並修改kdesu採用sudo而非su'
 tags:
   - Chakra Linux

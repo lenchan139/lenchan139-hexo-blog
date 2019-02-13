@@ -1,4 +1,5 @@
 ---
+uuid: a26c1469-2fbc-11e9-8b4d-05d549662b79
 title: '2018-09-24 JavaScript to TypeScript——require, exports, import 與 export'
 tags:
   - NodeJS

@@ -1,4 +1,5 @@
 ---
+uuid: a26b02fb-2fbc-11e9-8b4d-05d549662b79
 title: 屌下Apple以及喺MacBook Pro mid-2015 13″ 上裝OpenSUSE之後
 tags:
   - Chakra Linux

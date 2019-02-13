@@ -1,4 +1,5 @@
 ---
+uuid: a26b5116-2fbc-11e9-8b4d-05d549662b79
 title: '[Chakra][IRC]KDE上的IRC Client —— Quassel'
 tags:
   - KDE

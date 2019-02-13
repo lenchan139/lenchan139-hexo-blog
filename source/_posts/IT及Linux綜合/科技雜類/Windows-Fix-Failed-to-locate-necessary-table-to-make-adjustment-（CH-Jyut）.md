@@ -1,4 +1,5 @@
 ---
+uuid: a26c3b7c-2fbc-11e9-8b4d-05d549662b79
 title: '[Windows]Fix Failed to locate necessary table to make adjustment.（CH-Jyut）'
 tags:
   - Windows

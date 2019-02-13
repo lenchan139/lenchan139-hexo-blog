@@ -1,4 +1,5 @@
 ---
+uuid: a26b2a00-2fbc-11e9-8b4d-05d549662b79
 title: '[雜記]Swift係好文明，所以買咗Macbook Pro 13″ (2015)'
 tags:
   - MacOS

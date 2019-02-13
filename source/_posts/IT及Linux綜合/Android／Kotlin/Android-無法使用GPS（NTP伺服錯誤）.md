@@ -1,4 +1,5 @@
 ---
+uuid: a26b02f2-2fbc-11e9-8b4d-05d549662b79
 title: '[Android]無法使用GPS（NTP伺服錯誤）'
 tags:
   - Android

@@ -1,4 +1,5 @@
 ---
+uuid: a26c3b71-2fbc-11e9-8b4d-05d549662b79
 title: '[Raspbian] 開機自動行command/program仔 Autostart something on boot finished'
 tags:
   - Raspberry/ARM Linux

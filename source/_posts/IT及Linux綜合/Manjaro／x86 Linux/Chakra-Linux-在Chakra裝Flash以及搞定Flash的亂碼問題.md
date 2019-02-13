@@ -1,4 +1,5 @@
 ---
+uuid: a26b7820-2fbc-11e9-8b4d-05d549662b79
 title: '[Chakra/Linux]在Chakra裝Flash以及搞定Flash的亂碼問題'
 tags:
   - Chakra Linux

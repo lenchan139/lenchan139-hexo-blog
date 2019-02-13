@@ -1,4 +1,5 @@
 ---
+uuid: a26c1464-2fbc-11e9-8b4d-05d549662b79
 title: '[Ubuntu]Ubuntu下的手寫輸入法——tegaki'
 tags:
   - Linux

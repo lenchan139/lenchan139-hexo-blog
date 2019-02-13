@@ -15,7 +15,7 @@ timezone: Hongkong
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://blog.tto.moe
 root: /
-permalink: p/:id/
+permalink: p/:uuid/
 permalink_defaults:
 
 # Directory
@@ -134,12 +134,12 @@ auto_dir_categorize:
 
 lightgallery:
     # if you don't specify the css or js source, the default cdn will be used.
-    # css: # css source url
-    # js: #js source url
+    css: https://cdn.jsdelivr.net/npm/lightgallery.js@1.1.3/dist/css/lightgallery.css #css source url
+    js: https://cdn.jsdelivr.net/npm/lightgallery.js@1.1.3/dist/js/lightgallery.min.js #js source url
     # sorry that I can not find any cdn hosting following plugins,
     # please self-host the plugin js and add url here
-     plugins:
-         lg-thumbnail: /js/lg-thumbnail.js
+    plugins:
+        lg-thumbnail: /js/lg-thumbnail.js
         # lg-zoom:
         # lg-autoplay:
         # lg-fullscreen:

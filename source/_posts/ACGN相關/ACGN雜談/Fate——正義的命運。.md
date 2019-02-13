@@ -1,4 +1,5 @@
 ---
+uuid: a26adbe2-2fbc-11e9-8b4d-05d549662b79
 title: Fate——正義的命運。
 tags:
   - ACGN

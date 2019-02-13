@@ -1,4 +1,5 @@
 ---
+uuid: a26b7824-2fbc-11e9-8b4d-05d549662b79
 title: '[Chakra/Linux]搞個自動儲存的截圖+截圖時有聲音'
 tags:
   - Chakra Linux

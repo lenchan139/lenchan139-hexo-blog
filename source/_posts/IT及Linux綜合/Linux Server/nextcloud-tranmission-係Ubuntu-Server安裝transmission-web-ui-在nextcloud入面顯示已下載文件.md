@@ -1,4 +1,5 @@
 ---
+uuid: a26b5112-2fbc-11e9-8b4d-05d549662b79
 title: >-
   [nextcloud+tranmission]係Ubuntu Server安裝transmission web ui +
   在nextcloud入面顯示已下載文件

@@ -1,4 +1,5 @@
 ---
+uuid: a26c3b76-2fbc-11e9-8b4d-05d549662b79
 title: '[Fix]解決Notebook開機時閃燈一下便又關機的問題'
 tags:
   - fix

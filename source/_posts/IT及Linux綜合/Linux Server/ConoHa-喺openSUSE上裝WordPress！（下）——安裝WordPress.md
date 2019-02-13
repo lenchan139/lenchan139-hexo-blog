@@ -1,4 +1,5 @@
 ---
+uuid: a26b2a07-2fbc-11e9-8b4d-05d549662b79
 title: '[ConoHa] 喺openSUSE上裝WordPress！（下）——安裝WordPress'
 tags:
   - Linux Server

@@ -1,4 +1,5 @@
 ---
+uuid: a26c3b75-2fbc-11e9-8b4d-05d549662b79
 title: '[Club SIM]Club SIM體驗後感（持續更新）'
 tags:
   - IT

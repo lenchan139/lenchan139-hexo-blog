@@ -1,4 +1,5 @@
 ---
+uuid: a26b02f3-2fbc-11e9-8b4d-05d549662b79
 title: '[Note/Android][Fix] Fix Headset 按鍵失效問題（keymap映射錯誤）'
 tags:
   - Android

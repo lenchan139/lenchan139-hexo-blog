@@ -1,4 +1,5 @@
 ---
+uuid: a26b5118-2fbc-11e9-8b4d-05d549662b79
 title: '[Chakra/Linux]使用Oxygen-transparent 來讓KDE下的窗口有透明背景！'
 tags:
   - Chakra Linux

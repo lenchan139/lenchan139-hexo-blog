@@ -1,4 +1,5 @@
 ---
+uuid: a26c1468-2fbc-11e9-8b4d-05d549662b79
 title: '[Wine個靚galgame on Chakra]以riddle joker試驗'
 tags:
   - Linux

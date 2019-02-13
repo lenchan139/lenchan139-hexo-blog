@@ -1,4 +1,5 @@
 ---
+uuid: a26b02f8-2fbc-11e9-8b4d-05d549662b79
 title: '[MAC]鎖起Dock唔準改變大細'
 tags:
   - MacOS

@@ -1,4 +1,5 @@
 ---
+uuid: a26c6283-2fbc-11e9-8b4d-05d549662b79
 title: '[Twitter微言]最黑暗的不是主場無咗……'
 tags:
   - 時政評論

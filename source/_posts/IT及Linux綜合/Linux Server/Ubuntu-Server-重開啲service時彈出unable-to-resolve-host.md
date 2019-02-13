@@ -1,4 +1,5 @@
 ---
+uuid: a26b2a09-2fbc-11e9-8b4d-05d549662b79
 title: '[Ubuntu Server]重開啲service時彈出unable to resolve host'
 tags:
   - Linux Server

@@ -1,4 +1,5 @@
 ---
+uuid: a26b5117-2fbc-11e9-8b4d-05d549662b79
 title: '[Chakra/KDE]透過 Ksuperkey 來達成用Windows Key（Meta/Super鍵）打開 KickOff 的功能！'
 tags:
   - Chakra Linux

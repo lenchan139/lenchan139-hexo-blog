@@ -1,4 +1,5 @@
 ---
+uuid: a26b7821-2fbc-11e9-8b4d-05d549662b79
 title: '[Chakra/Linux]在KDE下設定自動掛載&將mount和umount弄成可以不用su權限'
 tags:
   - Chakra Linux

@@ -1,4 +1,5 @@
 ---
+uuid: a26c1467-2fbc-11e9-8b4d-05d549662b79
 title: '[Virtualbox] Kernel driver not installed (rc=-1908)'
 tags:
   - Linux

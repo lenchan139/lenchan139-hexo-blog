@@ -1,4 +1,5 @@
 ---
+uuid: a26adbe0-2fbc-11e9-8b4d-05d549662b79
 title: '[異度之刃2]2017發行嘅年度同人遊戲大作JPRG——Xenoblade 2'
 tags:
   - ACGN
