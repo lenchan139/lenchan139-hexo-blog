@@ -1,3 +1,6 @@
 [submodule "themes/spectreX"]
 	path = themes/spectreX
 	url = ../hexo-theme-spectreX-private
+[submodule "themes/netxt"]
+	path = themes/next
+	url = https://github.com/iissnan/hexo-theme-next.git
