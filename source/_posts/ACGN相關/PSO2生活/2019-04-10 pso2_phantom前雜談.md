@@ -1,5 +1,5 @@
 ---
-uuid: 57c531f0-5c24-11e9-9578-4364c8b07720
+uuid: pso2-before-phantom-launch
 title: '[PSO2]Phantom前雜談'
 tags:
   - PSO2
