@@ -8,10 +8,9 @@ tags:
   - Smart Watch
   - 心得
 categories:
-  - ACGN相關
-  - PSO2生活
-thumbnail: >-
-  /img/2019-06-28 TicWatch Pro體驗後感/photo_2019-07-13_22-19-02.jpg
+  - IT及Linux綜合
+  - 產品心得
+thumbnail: /img/2019-06-28 TicWatch Pro體驗後感/photo_2019-07-13_22-19-02.jpg
 thumbnailStyles:
   - 'background-position: 0% 48%'
 date: 2019-06-28 20:53:59
