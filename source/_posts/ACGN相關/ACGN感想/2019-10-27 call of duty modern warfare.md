@@ -49,7 +49,7 @@ CoD簡直係每年遊戲嘅標杆，亦係種年貨，安定、統一、和諧�
 
 ![](/img/2019-10-27 Call of Duty Modern Warfare/Call of Duty®_ Modern Warfare®_20191027142213.png)
 
-#光復香港 #時代革命 #五大訴求 #缺一不可
+＃光復香港 ＃時代革命 ＃五大訴求 ＃缺一不可
 
 [更多截圖](https://photo.tto.moe/2019-10-27-Call-of-Duty-Modern-Warfare-2019)
 
