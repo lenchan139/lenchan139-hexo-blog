@@ -21,7 +21,7 @@ thumbnailStyles:
   - 'background-position: 0% 95%'
 date: 2019-10-27 21:22:40
 ---
-！[](/img/2019-10-27 Call of Duty Modern Warfare/Call of Duty®_ Modern Warfare®_20191026193416.png)
+![](/img/2019-10-27 Call of Duty Modern Warfare/Call of Duty®_ Modern Warfare®_20191026193416.png)
 CoD簡直係每年遊戲嘅標杆，亦係種年貨，安定、統一、和諧。記得上代CoD 《Black Ops 4》出嘅時候，因爲無單機搞得滿城風雨……但比起BF1女兵風波顯得好了，畢竟，玩單機嘅唔多，買完之後個個都話，真香。
 而緊接着嘅作品就係今代嘅《Call of Duty: Modern Warfare》（係，無number，唔係4……）。比起神神化化嘅《Black Ops》系列，《Modern Warfare》系列真係如同名字所言，基本就係講緊比較接近現實嘅戰爭故事。既然係《MW》，當然主角有唔知跨過鬼門關嘅Price。
 
