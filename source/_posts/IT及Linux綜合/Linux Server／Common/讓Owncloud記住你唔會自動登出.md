@@ -13,7 +13,7 @@ tags:
   - remember
 categories:
   - IT及Linux綜合
-  - Linux Server
+  - Linux Server／Common
 date: 2016-12-19 23:04:41
 ---
 

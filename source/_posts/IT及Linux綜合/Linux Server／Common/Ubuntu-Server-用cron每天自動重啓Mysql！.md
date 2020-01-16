@@ -12,7 +12,7 @@ tags:
   - MySQL
 categories:
   - IT及Linux綜合
-  - Linux Server
+  - Linux Server／Common
 date: 2014-03-05 20:43:32
 ---
 

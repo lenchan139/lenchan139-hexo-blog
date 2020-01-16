@@ -12,7 +12,7 @@ tags:
   - zypper
 categories:
   - IT及Linux綜合
-  - Linux Server
+  - Linux Server／Common
 date: 2016-06-12 15:05:49
 ---
 

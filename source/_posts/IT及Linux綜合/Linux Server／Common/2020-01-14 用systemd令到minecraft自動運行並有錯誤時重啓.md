@@ -1,6 +1,6 @@
 ---
 uuid: minecraft-server-with-systemd-20200114
-title: '用systemd建立service使得Minecraft Server會自動啓動並有錯誤時重開'
+title: 用systemd建立service使得Minecraft Server會自動啓動並有錯誤時重開
 tags:
   - Minecraft Server
   - systemd
@@ -10,8 +10,7 @@ tags:
   - 唔好死
 categories:
   - IT及Linux綜合
-  - Linux Server
-
+  - Linux Server／Common
 thumbnail: /img/2020-01-14 用systemd令到minecraft自動運行並有錯誤時重啓/cover.png
 thumbnailStyles:
   - 'background-position: 0% 64%'

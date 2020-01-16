@@ -11,7 +11,7 @@ tags:
   - console
 categories:
   - IT及Linux綜合
-  - Linux Server
+  - Linux Server／Common
 date: 2014-06-11 19:24:36
 ---
 

@@ -15,7 +15,7 @@ tags:
   - Server
 categories:
   - IT及Linux綜合
-  - Linux Server
+  - Linux Server／Common
 date: 2016-06-12 15:01:22
 ---
 

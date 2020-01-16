@@ -12,7 +12,7 @@ tags:
   - Twitter
 categories:
   - IT及Linux綜合
-  - Linux Server
+  - Linux Server／Common
 date: 2017-04-23 20:40:55
 ---
 

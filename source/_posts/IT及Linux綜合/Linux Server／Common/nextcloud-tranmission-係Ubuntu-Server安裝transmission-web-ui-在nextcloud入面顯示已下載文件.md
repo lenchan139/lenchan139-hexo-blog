@@ -16,7 +16,7 @@ tags:
   - admin
 categories:
   - IT及Linux綜合
-  - Linux Server
+  - Linux Server／Common
 date: 2017-03-02 15:39:16
 ---
 
