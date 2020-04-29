@@ -3,8 +3,11 @@ title: 貢獻金錢 To Me
 date: 2018-06-03 19:40:08
 ---
 
-如果你覺得雪娘好善良，想貢獻資金俾雪娘可以使用下面嘅表格經信用卡嚟貢獻資金。
+如果你覺得雪娘好善良，想貢獻資金俾雪娘可以使用下面嘅連結經PayPal以信用卡嚟貢獻資金。
+[https://paypal.me/lenchan139](https://paypal.me/lenchan139)
 <br/>
+
+<!--
 <script>
 let publishableKey = "pk_live_tAkakNKRE9sWdKReWoW8aiFd"
 function onValueChangeCallback(){
@@ -40,3 +43,4 @@ document.addEventListener("DOMContentLoaded", function(event) {
   <div style="padding-left: 8px; padding-top: 8px;" id="payButtonHolder" style="height:300px;"></div>
   </form>
 </div>
+-->
