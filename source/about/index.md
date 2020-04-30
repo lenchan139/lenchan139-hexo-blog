@@ -141,4 +141,4 @@ Telegram：[@lenchan139](https://telegram.me/lenchan139)
 
 # 奉獻 To Me
 如果你覺得呢度嘅任何嘢實用，而又想酬謝一下我飲杯酒水，你可以經Stripe用信用卡奉獻/捐贈：
-[雖然唔是十一奉獻但你可以點我往捐贈頁面](https://blog.tto.moe/payments/stripe/)
+[雖然唔是十一奉獻但你可以點我往捐贈頁面](https://blog.tto.moe/payments/pay/)
