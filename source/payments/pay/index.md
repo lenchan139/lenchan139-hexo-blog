@@ -3,9 +3,19 @@ title: 貢獻金錢 To Me
 date: 2018-06-03 19:40:08
 ---
 
-如果你覺得雪娘好善良，想貢獻資金俾雪娘可以使用下面嘅連結經PayPal以信用卡嚟貢獻資金。
-<br/>
+如果你覺得雪娘好善良，想貢獻資金俾雪娘可以透過Crypto Currency貢獻金錢 to me。
+# Crypto Currency
+BTC: 3JaC6TmqgEMXAr7jbgcyZF45LTP4SpyDBY
+MCO: 0x9205579963ff4aE88D51d61Ef2488Ca880170Db2
+ETH: 0x9205579963ff4aE88D51d61Ef2488Ca880170Db2
+LTC: MKjJpqo5MbZgikzjkHDxg1EcYCZvxX1ZRJ
+XRP ADDRESS: rKV8HEL3vLc6q9waTiJcewdRdSFyx67QFb
+XRP TAG: 1947269684
+TRUE USD: 0x9205579963ff4aE88D51d61Ef2488Ca880170Db2
 
+# Paypal Checkout 
+亦可以使用下面嘅連結經PayPal以信用卡嚟貢獻資金。
+<br/>
 <div>
 金額(HKD)：
   <input name="price" id="stripeValueInput" value=10 min="10" type="number" onchange="onValueChangeCallback()"/>
