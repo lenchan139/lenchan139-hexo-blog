@@ -12,7 +12,7 @@ tags:
   - export
 categories:
   - IT及Linux綜合
-  - NodeJS
+  - NodeJS／Deno
 thumbnail: /img/2018-09-24 javascript to typescript/cover.png
 date: 2018-09-24 10:12:50
 ---

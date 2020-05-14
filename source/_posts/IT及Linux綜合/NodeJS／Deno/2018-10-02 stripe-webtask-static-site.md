@@ -15,7 +15,7 @@ tags:
   - We7Pay
 categories:
   - IT及Linux綜合
-  - NodeJS
+  - NodeJS／Deno
 thumbnail: >-
   /img/2018-11-02 stripe-webtask-on-static-site/Screenshot 2018-11-05 at
   11.24.23.png
